@@ -1,49 +1,69 @@
-// Illustrazioni originali e generiche (nessun logo, nessuna grafica ufficiale).
-const INK = '#e9e2cf';
+// Illustrazioni originali e generiche, in stile 3D "cicciotto" (nessun logo, nessuna grafica ufficiale).
+const PIATTAFORMA = (p) => `
+  <ellipse cx="150" cy="148" rx="118" ry="26" fill="url(#${p}-lato)"/>
+  <rect x="32" y="128" width="236" height="20" fill="url(#${p}-lato)"/>
+  <ellipse cx="150" cy="128" rx="118" ry="26" fill="url(#${p}-erba)"/>`;
+const DEFS = (p) => `
+  <linearGradient id="${p}-erba" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6fe05a"/><stop offset="1" stop-color="#1f9a3a"/></linearGradient>
+  <linearGradient id="${p}-lato" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a8030"/><stop offset="1" stop-color="#0d4d1c"/></linearGradient>
+  <filter id="${p}-sfuma"><feGaussianBlur stdDeviation="4"/></filter>`;
+
 const ILLUSTRAZIONI = {
 
-// Stadio di notte con riflettori e prato a strisce
+// Stadio cicciotto con riflettori
 stadio: `<svg viewBox="0 0 300 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Uno stadio di notte con i riflettori accesi">
-  <defs>
-    <radialGradient id="alone" cx="50%" cy="40%" r="60%">
-      <stop offset="0" stop-color="#f4d58a" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#f4d58a" stop-opacity="0"/>
-    </radialGradient>
+  <defs>${DEFS('st')}
+    <linearGradient id="st-spalti" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9b7bff"/><stop offset="1" stop-color="#4a2fb0"/></linearGradient>
+    <radialGradient id="st-luce" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#fff6c2" stop-opacity=".95"/><stop offset="1" stop-color="#ffd84a" stop-opacity="0"/></radialGradient>
   </defs>
-  <ellipse cx="150" cy="70" rx="140" ry="62" fill="url(#alone)"/>
-  <g fill="none" stroke="${INK}" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M20 120C20 92 70 74 150 74C230 74 280 92 280 120C280 148 230 164 150 164C70 164 20 148 20 120Z" fill="#1d5b3a" fill-opacity="0.85"/>
-    <path d="M46 120C46 102 86 90 150 90C214 90 254 102 254 120C254 138 214 150 150 150C86 150 46 138 46 120Z" stroke-width="0.8"/>
-    <path d="M150 90V150M104 93V147M196 93V147" stroke-width="0.7" opacity="0.7"/>
-    <path d="M12 118V70M288 118V70M12 70H30M270 70H288"/>
-    <path d="M14 62H34M266 62H286M14 54H34M266 54H286M14 46H34M266 46H286" stroke-width="2"/>
-    <path d="M28 70C28 66 20 62 20 62M272 70C272 66 280 62 280 62" stroke-width="0.8"/>
+  ${PIATTAFORMA('st')}
+  <ellipse cx="150" cy="130" rx="92" ry="20" fill="#0a3a14" opacity=".5" filter="url(#st-sfuma)"/>
+  <path d="M52 112V124C52 138 96 150 150 150C204 150 248 138 248 124V112Z" fill="#4a2fb0"/>
+  <ellipse cx="150" cy="112" rx="98" ry="30" fill="url(#st-spalti)"/>
+  <ellipse cx="150" cy="114" rx="72" ry="19" fill="url(#st-erba)"/>
+  <ellipse cx="150" cy="114" rx="40" ry="10" fill="none" stroke="#fff" stroke-width="2.5" opacity=".85"/>
+  <path d="M150 95V133" stroke="#fff" stroke-width="2.5" opacity=".85"/>
+  <g stroke-linecap="round">
+    <path d="M62 108V58M238 108V58" stroke="#e8e8f5" stroke-width="7"/>
+    <path d="M62 108V58M238 108V58" stroke="#fff" stroke-width="2" transform="translate(-1.5 0)" opacity=".8"/>
   </g>
+  <ellipse cx="62" cy="50" rx="34" ry="30" fill="url(#st-luce)"/><ellipse cx="238" cy="50" rx="34" ry="30" fill="url(#st-luce)"/>
+  <rect x="48" y="42" width="28" height="16" rx="6" fill="#ffd84a" stroke="#c98a0a" stroke-width="2.5"/>
+  <rect x="224" y="42" width="28" height="16" rx="6" fill="#ffd84a" stroke="#c98a0a" stroke-width="2.5"/>
+  <path d="M52 47H72M228 47H248" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".9"/>
 </svg>`,
 
-// Palla ovale su una linea di campo
+// Palla ovale cicciotta su una piattaforma di prato
 palla: `<svg viewBox="0 0 300 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Una palla da football americano sul prato">
-  <g fill="none" stroke="${INK}" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M0 140H300" stroke-width="1.6"/>
-    <path d="M40 140V156M80 140V152M120 140V156M160 140V152M200 140V156M240 140V152M280 140V156" stroke-width="0.9"/>
-    <g transform="rotate(-18 150 96)">
-      <path d="M78 96C96 64 130 54 150 54C170 54 204 64 222 96C204 128 170 138 150 138C130 138 96 128 78 96Z" fill="#8a4b24"/>
-      <path d="M118 96H182" stroke-width="1.6"/>
-      <path d="M128 88V104M140 86V106M152 86V106M164 86V106M176 88V104" stroke-width="1.1"/>
-      <path d="M92 84C96 90 96 102 92 108M208 84C204 90 204 102 208 108" stroke-width="1"/>
-    </g>
+  <defs>${DEFS('pa')}
+    <radialGradient id="pa-palla" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#ffb066"/><stop offset=".45" stop-color="#e5671f"/><stop offset="1" stop-color="#8f3208"/></radialGradient>
+    <radialGradient id="pa-luce" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  ${PIATTAFORMA('pa')}
+  <ellipse cx="150" cy="130" rx="72" ry="12" fill="none" stroke="#fff" stroke-width="3" opacity=".85"/>
+  <ellipse cx="154" cy="130" rx="46" ry="8" fill="#0a3a14" opacity=".55" filter="url(#pa-sfuma)"/>
+  <g transform="translate(150 94) scale(0.5) translate(-200 -190) rotate(-24 200 190)">
+    <ellipse cx="200" cy="190" rx="135" ry="88" fill="url(#pa-palla)" stroke="#6b2605" stroke-width="7"/>
+    <path d="M112 140Q125 190 112 240M288 140Q275 190 288 240" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+    <g stroke="#fff" stroke-width="11" stroke-linecap="round"><line x1="165" y1="190" x2="235" y2="190"/><line x1="178" y1="166" x2="178" y2="214"/><line x1="200" y1="162" x2="200" y2="218"/><line x1="222" y1="166" x2="222" y2="214"/></g>
+    <ellipse cx="160" cy="145" rx="46" ry="20" fill="url(#pa-luce)" transform="rotate(-8 160 145)"/>
   </g>
 </svg>`,
 
-// Pali della porta nel crepuscolo
-porta: `<svg viewBox="0 0 300 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pali della porta del football al crepuscolo">
-  <circle cx="232" cy="46" r="18" fill="#f4d58a" fill-opacity="0.6" stroke="none"/>
-  <g fill="none" stroke="${INK}" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M150 160V104M150 104H98M150 104H202M98 104V26M202 104V26"/>
-    <path d="M98 26H104M202 26H208" stroke-width="2.4"/>
-    <path d="M0 160H300" stroke-width="1.4"/>
-    <path d="M20 168H280M60 175H240" stroke-width="0.6" opacity="0.6"/>
+// Pali della porta cicciotti
+porta: `<svg viewBox="0 0 300 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pali della porta del football su un prato">
+  <defs>${DEFS('po')}
+    <radialGradient id="po-sole" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#fff6c2"/><stop offset="1" stop-color="#ffb83a"/></radialGradient>
+  </defs>
+  <circle cx="240" cy="38" r="20" fill="url(#po-sole)"/>
+  ${PIATTAFORMA('po')}
+  <ellipse cx="152" cy="130" rx="40" ry="7" fill="#0a3a14" opacity=".55" filter="url(#po-sfuma)"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 128V92M150 92H100M150 92H200M100 92V22M200 92V22" stroke="#b86e00" stroke-width="12"/>
+    <path d="M150 128V92M150 92H100M150 92H200M100 92V22M200 92V22" stroke="#ffcf3a" stroke-width="8"/>
+    <path d="M97 90V26M197 90V26M104 90H146" stroke="#fff6c2" stroke-width="2.5" opacity=".85"/>
   </g>
+  <circle cx="100" cy="20" r="6" fill="#ff5a5a" stroke="#a02020" stroke-width="2"/><circle cx="200" cy="20" r="6" fill="#ff5a5a" stroke="#a02020" stroke-width="2"/>
 </svg>`
 };
 
