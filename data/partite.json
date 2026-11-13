@@ -1678,5 +1678,600 @@
    "https://en.wikipedia.org/wiki/Super_Bowl_XL"
   ],
   "verificata": true
+ },
+ {
+  "id": "sb-41",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2006,
+  "fase": "superbowl",
+  "data": "2007-02-04",
+  "citta": "Miami Gardens",
+  "stadio": "Dolphin Stadium",
+  "squadre": [
+   {
+    "nome": "Indianapolis Colts",
+    "punti": 29
+   },
+   {
+    "nome": "Chicago Bears",
+    "punti": 17
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XLI",
+   "en": "Super Bowl XLI",
+   "de": "Super Bowl XLI"
+  },
+  "indizio": {
+   "it": "La partita si gioca sotto la pioggia, per la prima volta in una finale. Devin Hester riporta il kickoff d'apertura di 92 yard in touchdown dopo soli 14 secondi. I vincitori rimontano da 14 a 6 e chiudono con un intercetto riportato in meta da 56 yard da Kelvin Hayden. Peyton Manning è nominato MVP.",
+   "en": "The game is played in the rain, a first for a final. Devin Hester returns the opening kickoff 92 yards for a touchdown after only 14 seconds. The winners come back from 14 to 6 down and close with a 56-yard interception returned for a touchdown by Kelvin Hayden. Peyton Manning is named MVP.",
+   "de": "Das Spiel findet bei Regen statt, erstmals in einem Finale. Devin Hester trägt den Eröffnungs-Kickoff nach nur 14 Sekunden 92 Yards zum Touchdown zurück. Die Sieger holen einen Rückstand von 6 zu 14 auf und entscheiden mit einer 56-Yard-Interception von Kelvin Hayden, die zum Touchdown zurückgetragen wird. Peyton Manning wird zum MVP gewählt."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XLI"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-43",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2008,
+  "fase": "superbowl",
+  "data": "2009-02-01",
+  "citta": "Tampa",
+  "stadio": "Raymond James Stadium",
+  "squadre": [
+   {
+    "nome": "Pittsburgh Steelers",
+    "punti": 27
+   },
+   {
+    "nome": "Arizona Cardinals",
+    "punti": 23
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XLIII",
+   "en": "Super Bowl XLIII",
+   "de": "Super Bowl XLIII"
+  },
+  "indizio": {
+   "it": "James Harrison intercetta un lancio e lo riporta in touchdown per 100 yard, la giocata più lunga della storia di queste finali. Gli sfidanti passano in vantaggio con un touchdown da 64 yard di Larry Fitzgerald. A 35 secondi dalla fine Santonio Holmes prende un lancio da 6 yard in angolo, confermato dalla revisione video, ed è nominato MVP. Un sack con fumble di LaMarr Woodley chiude l'ultimo attacco avversario.",
+   "en": "James Harrison intercepts a pass and returns it 100 yards for a touchdown, the longest play in the history of these finals. The challengers take the lead with a 64-yard touchdown by Larry Fitzgerald. With 35 seconds left Santonio Holmes catches a 6-yard pass in the corner, upheld by video review, and is named MVP. A strip sack by LaMarr Woodley ends the opponents' last drive.",
+   "de": "James Harrison fängt einen Pass ab und trägt ihn 100 Yards zum Touchdown zurück, der längste Spielzug in der Geschichte dieser Finals. Die Herausforderer gehen mit einem 64-Yard-Touchdown von Larry Fitzgerald in Führung. 35 Sekunden vor Schluss fängt Santonio Holmes in der Ecke einen 6-Yard-Pass, von der Videoprüfung bestätigt, und wird zum MVP gewählt. Ein Strip Sack von LaMarr Woodley beendet den letzten Angriff der Gegner."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XLIII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-44",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2009,
+  "fase": "superbowl",
+  "data": "2010-02-07",
+  "citta": "Miami Gardens",
+  "stadio": "Sun Life Stadium",
+  "squadre": [
+   {
+    "nome": "New Orleans Saints",
+    "punti": 31
+   },
+   {
+    "nome": "Indianapolis Colts",
+    "punti": 17
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XLIV",
+   "en": "Super Bowl XLIV",
+   "de": "Super Bowl XLIV"
+  },
+  "indizio": {
+   "it": "I vincitori sono sotto 10 a 0 e aprono il secondo tempo con un calcio d'inizio corto a sorpresa, detto The Ambush, il primo tentativo di questo tipo prima dell'ultimo quarto in una finale. Drew Brees, nominato MVP, completa 32 passaggi su 39. A 3 minuti e 12 secondi dalla fine Tracy Porter intercetta Peyton Manning e corre per 74 yard fino alla meta.",
+   "en": "The winners are down 10 to 0 and open the second half with a surprise onside kick, called The Ambush, the first such attempt before the last quarter in a final. Drew Brees, named MVP, completes 32 of 39 passes. With 3 minutes 12 seconds left Tracy Porter intercepts Peyton Manning and runs 74 yards to the end zone.",
+   "de": "Die Sieger liegen mit 0 zu 10 zurück und eröffnen die zweite Halbzeit mit einem überraschenden Onside-Kick namens The Ambush, dem ersten solchen Versuch vor dem letzten Viertel in einem Finale. Drew Brees, zum MVP gewählt, komplettiert 32 von 39 Pässen. 3 Minuten und 12 Sekunden vor Schluss fängt Tracy Porter einen Pass von Peyton Manning ab und läuft 74 Yards in die Endzone."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XLIV"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-45",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2010,
+  "fase": "superbowl",
+  "data": "2011-02-06",
+  "citta": "Arlington",
+  "stadio": "Cowboys Stadium",
+  "squadre": [
+   {
+    "nome": "Green Bay Packers",
+    "punti": 31
+   },
+   {
+    "nome": "Pittsburgh Steelers",
+    "punti": 25
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XLV",
+   "en": "Super Bowl XLV",
+   "de": "Super Bowl XLV"
+  },
+  "indizio": {
+   "it": "Aaron Rodgers lancia tre touchdown per 304 yard ed è nominato MVP. Nick Collins riporta un intercetto di 37 yard in touchdown e la squadra è avanti 21 a 3 nel secondo quarto. Gli sfidanti rimontano fino al 28 a 25 con un touchdown di Mike Wallace e una conversione da due punti. Mason Crosby calcia il field goal da 23 yard a 2 minuti e 7 secondi dalla fine.",
+   "en": "Aaron Rodgers throws three touchdowns for 304 yards and is named MVP. Nick Collins returns a 37-yard interception for a touchdown and the team leads 21 to 3 in the second quarter. The challengers come back to 28 to 25 with a Mike Wallace touchdown and a two-point conversion. Mason Crosby kicks the 23-yard field goal with 2 minutes 7 seconds left.",
+   "de": "Aaron Rodgers wirft drei Touchdowns für 304 Yards und wird zum MVP gewählt. Nick Collins trägt eine Interception über 37 Yards zum Touchdown zurück, und das Team führt im zweiten Viertel mit 21 zu 3. Die Herausforderer kommen mit einem Touchdown von Mike Wallace und einer Zwei-Punkte-Conversion auf 25 zu 28 heran. Mason Crosby verwandelt 2 Minuten und 7 Sekunden vor Schluss das 23-Yard-Field-Goal."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XLV"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-46",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2011,
+  "fase": "superbowl",
+  "data": "2012-02-05",
+  "citta": "Indianapolis",
+  "stadio": "Lucas Oil Stadium",
+  "squadre": [
+   {
+    "nome": "New York Giants",
+    "punti": 21
+   },
+   {
+    "nome": "New England Patriots",
+    "punti": 17
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XLVI",
+   "en": "Super Bowl XLVI",
+   "de": "Super Bowl XLVI"
+  },
+  "indizio": {
+   "it": "La partita comincia con una safety: Tom Brady commette un fallo di intenzionale perdita di tempo nella propria end zone. Eli Manning, nominato MVP, lancia a Mario Manningham un passaggio da 38 yard lungo la linea laterale, decisivo per l'ultimo drive. Nel finale la difesa lascia segnare Ahmad Bradshaw di proposito, per dare a Brady 57 secondi. L'ultimo lancio della partita è deviato da cinque difensori.",
+   "en": "The game starts with a safety: Tom Brady is called for intentional grounding in his own end zone. Eli Manning, named MVP, throws a 38-yard pass to Mario Manningham along the sideline, decisive for the last drive. Late on, the defense lets Ahmad Bradshaw score on purpose, to give Brady 57 seconds. The last throw of the game is deflected by five defenders.",
+   "de": "Das Spiel beginnt mit einer Safety: Tom Brady wird in der eigenen Endzone wegen absichtlichen Grounding bestraft. Eli Manning, zum MVP gewählt, wirft einen 38-Yard-Pass auf Mario Manningham an der Seitenlinie, entscheidend für den letzten Drive. Am Ende lässt die Defense Ahmad Bradshaw absichtlich punkten, um Brady 57 Sekunden zu geben. Der letzte Wurf des Spiels wird von fünf Verteidigern abgelenkt."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XLVI"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-47",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2012,
+  "fase": "superbowl",
+  "data": "2013-02-03",
+  "citta": "New Orleans",
+  "stadio": "Mercedes-Benz Superdome",
+  "squadre": [
+   {
+    "nome": "Baltimore Ravens",
+    "punti": 34
+   },
+   {
+    "nome": "San Francisco 49ers",
+    "punti": 31
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XLVII",
+   "en": "Super Bowl XLVII",
+   "de": "Super Bowl XLVII"
+  },
+  "indizio": {
+   "it": "Per la prima volta due fratelli, John e Jim Harbaugh, si affrontano da allenatori in una finale. Jacoby Jones riporta il kickoff d'apertura del secondo tempo di 108 yard in touchdown, record. Poi metà dello stadio perde la corrente e il gioco si ferma per 34 minuti. Gli sfidanti rimontano da 28 a 6 fino a 28 a 23, e l'ultimo drive si ferma sulla linea delle 5 yard. Joe Flacco è nominato MVP.",
+   "en": "For the first time two brothers, John and Jim Harbaugh, face each other as head coaches in a final. Jacoby Jones returns the opening kickoff of the second half 108 yards for a touchdown, a record. Then half of the stadium loses power and play stops for 34 minutes. The challengers come back from 28 to 6 down to 28 to 23, and the last drive stalls at the 5-yard line. Joe Flacco is named MVP.",
+   "de": "Zum ersten Mal treffen zwei Brüder, John und Jim Harbaugh, als Cheftrainer in einem Finale aufeinander. Jacoby Jones trägt den Eröffnungs-Kickoff der zweiten Halbzeit 108 Yards zum Touchdown zurück, ein Rekord. Dann verliert die Hälfte des Stadions den Strom, und das Spiel ruht 34 Minuten. Die Herausforderer holen einen Rückstand von 6 zu 28 auf 23 zu 28 auf, und der letzte Drive endet an der 5-Yard-Linie. Joe Flacco wird zum MVP gewählt."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XLVII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-48",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2013,
+  "fase": "superbowl",
+  "data": "2014-02-02",
+  "citta": "East Rutherford",
+  "stadio": "MetLife Stadium",
+  "squadre": [
+   {
+    "nome": "Seattle Seahawks",
+    "punti": 43
+   },
+   {
+    "nome": "Denver Broncos",
+    "punti": 8
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XLVIII",
+   "en": "Super Bowl XLVIII",
+   "de": "Super Bowl XLVIII"
+  },
+  "indizio": {
+   "it": "Dopo 12 secondi la prima azione finisce con una safety, il punteggio di apertura più veloce di una finale. Malcolm Smith riporta un intercetto di 69 yard in touchdown ed è nominato MVP. Percy Harvin segna con un ritorno di kickoff da 87 yard a 12 secondi dall'inizio del secondo tempo. Peyton Manning completa 34 passaggi e Demaryius Thomas ne riceve 13, due record. I vincitori, sfavoriti di 2 punti, vincono con 35 di scarto.",
+   "en": "After 12 seconds the first play ends in a safety, the fastest opening score in a final. Malcolm Smith returns a 69-yard interception for a touchdown and is named MVP. Percy Harvin scores on an 87-yard kickoff return 12 seconds into the second half. Peyton Manning completes 34 passes and Demaryius Thomas catches 13, two records. The winners, 2-point underdogs, win by 35.",
+   "de": "Nach 12 Sekunden endet der erste Spielzug mit einer Safety, dem schnellsten Eröffnungs-Score in einem Finale. Malcolm Smith trägt eine 69-Yard-Interception zum Touchdown zurück und wird zum MVP gewählt. Percy Harvin punktet 12 Sekunden nach Beginn der zweiten Halbzeit mit einem 87-Yard-Kickoff-Return. Peyton Manning komplettiert 34 Pässe und Demaryius Thomas fängt 13, zwei Rekorde. Die Sieger, mit 2 Punkten Außenseiter, gewinnen mit 35 Punkten Abstand."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XLVIII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-50",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2015,
+  "fase": "superbowl",
+  "data": "2016-02-07",
+  "citta": "Santa Clara",
+  "stadio": "Levi's Stadium",
+  "squadre": [
+   {
+    "nome": "Denver Broncos",
+    "punti": 24
+   },
+   {
+    "nome": "Carolina Panthers",
+    "punti": 10
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl 50",
+   "en": "Super Bowl 50",
+   "de": "Super Bowl 50"
+  },
+  "indizio": {
+   "it": "Von Miller, nominato MVP, mette a segno due sack con fumble sul quarterback avversario, e il primo porta al touchdown di Malik Jackson su recupero in end zone. Gli sconfitti vengono sackati sette volte. Peyton Manning, a 39 anni il più anziano quarterback vincitore di una finale, chiude con un passaggio da due punti, l'ultimo della sua carriera.",
+   "en": "Von Miller, named MVP, forces two fumbles with sacks on the opposing quarterback, and the first leads to Malik Jackson's touchdown on a recovery in the end zone. The losers are sacked seven times. Peyton Manning, at 39 the oldest quarterback to win a final, ends with a two-point pass, the last of his career.",
+   "de": "Von Miller, zum MVP gewählt, erzwingt mit zwei Sacks zwei Fumbles beim gegnerischen Quarterback, und der erste führt zum Touchdown von Malik Jackson nach einer Balleroberung in der Endzone. Die Verlierer werden siebenmal gesackt. Peyton Manning, mit 39 Jahren der älteste Quarterback, der ein Finale gewinnt, beendet das Spiel mit einem Zwei-Punkte-Pass, dem letzten seiner Karriere."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_50"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-52",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2017,
+  "fase": "superbowl",
+  "data": "2018-02-04",
+  "citta": "Minneapolis",
+  "stadio": "U.S. Bank Stadium",
+  "squadre": [
+   {
+    "nome": "Philadelphia Eagles",
+    "punti": 41
+   },
+   {
+    "nome": "New England Patriots",
+    "punti": 33
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl LII",
+   "en": "Super Bowl LII",
+   "de": "Super Bowl LII"
+  },
+  "indizio": {
+   "it": "Sul quarto down a una yard dalla linea di meta, il quarterback Nick Foles prende un touchdown su un trick play, il Philly Special: è il primo quarterback a ricevere un touchdown in una finale. Foles è nominato MVP. Il quarterback avversario Tom Brady lancia per 505 yard, ma Brandon Graham gli strappa il pallone nel finale e Derek Barnett lo recupera. Le due squadre guadagnano 1.151 yard insieme, un record per una partita.",
+   "en": "On fourth down from one yard out, quarterback Nick Foles catches a touchdown on a trick play, the Philly Special: he is the first quarterback to catch a touchdown in a final. Foles is named MVP. The opposing quarterback Tom Brady throws for 505 yards, but Brandon Graham strips the ball late and Derek Barnett recovers it. The two teams gain 1,151 yards together, a record for a game.",
+   "de": "Beim vierten Versuch an der 1-Yard-Linie fängt Quarterback Nick Foles bei einem Trickspielzug, dem Philly Special, einen Touchdown: Er ist der erste Quarterback, der in einem Finale einen Touchdown fängt. Foles wird zum MVP gewählt. Der gegnerische Quarterback Tom Brady wirft für 505 Yards, doch Brandon Graham schlägt ihm spät den Ball aus der Hand und Derek Barnett erobert ihn. Beide Teams gewinnen zusammen 1.151 Yards, ein Rekord für ein Spiel."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-53",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2018,
+  "fase": "superbowl",
+  "data": "2019-02-03",
+  "citta": "Atlanta",
+  "stadio": "Mercedes-Benz Stadium",
+  "squadre": [
+   {
+    "nome": "New England Patriots",
+    "punti": 13
+   },
+   {
+    "nome": "Los Angeles Rams",
+    "punti": 3
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl LIII",
+   "en": "Super Bowl LIII",
+   "de": "Super Bowl LIII"
+  },
+  "indizio": {
+   "it": "È la finale con meno punti di sempre: 16 in tutto, e nessun touchdown fino al quarto periodo. Sony Michel segna l'unico touchdown della partita, da 2 yard. Julian Edelman, con 10 ricezioni e 141 yard, è nominato MVP. Il quarterback vincitore, a 41 anni, è il più anziano a vincere una finale e il primo a conquistarne sei.",
+   "en": "It is the lowest-scoring final ever: 16 points in total, and no touchdown until the fourth quarter. Sony Michel scores the only touchdown of the game, from 2 yards. Julian Edelman, with 10 catches and 141 yards, is named MVP. The winning quarterback, at 41, is the oldest to win a final and the first to win six.",
+   "de": "Es ist das punkteärmste Finale aller Zeiten: insgesamt 16 Punkte und kein Touchdown bis zum vierten Viertel. Sony Michel erzielt den einzigen Touchdown des Spiels, aus 2 Yards. Julian Edelman wird mit 10 Fängen und 141 Yards zum MVP gewählt. Der siegreiche Quarterback ist mit 41 Jahren der älteste Sieger eines Finales und der erste mit sechs Titeln."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LIII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-54",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2019,
+  "fase": "superbowl",
+  "data": "2020-02-02",
+  "citta": "Miami Gardens",
+  "stadio": "Hard Rock Stadium",
+  "squadre": [
+   {
+    "nome": "Kansas City Chiefs",
+    "punti": 31
+   },
+   {
+    "nome": "San Francisco 49ers",
+    "punti": 20
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl LIV",
+   "en": "Super Bowl LIV",
+   "de": "Super Bowl LIV"
+  },
+  "indizio": {
+   "it": "Gli sfidanti sono avanti 20 a 10 all'inizio del quarto periodo, ma i vincitori segnano 21 punti di fila negli ultimi sette minuti, con touchdown di Travis Kelce, Damien Williams su lancio e Williams di corsa da 38 yard. Patrick Mahomes, a 24 anni il più giovane MVP di sempre, vince nonostante due intercetti. Per l'allenatore Andy Reid è il primo titolo.",
+   "en": "The challengers lead 20 to 10 at the start of the fourth quarter, but the winners score 21 straight points in the last seven minutes, with touchdowns by Travis Kelce, Damien Williams on a pass and Williams on a 38-yard run. Patrick Mahomes, at 24 the youngest MVP ever, wins despite two interceptions. For coach Andy Reid it is the first title.",
+   "de": "Die Herausforderer führen zu Beginn des vierten Viertels mit 20 zu 10, doch die Sieger erzielen in den letzten sieben Minuten 21 Punkte in Folge, mit Touchdowns von Travis Kelce, Damien Williams per Pass und Williams per 38-Yard-Lauf. Patrick Mahomes, mit 24 Jahren der jüngste MVP aller Zeiten, gewinnt trotz zwei Interceptions. Für Trainer Andy Reid ist es der erste Titel."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LIV"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-55",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2020,
+  "fase": "superbowl",
+  "data": "2021-02-07",
+  "citta": "Tampa",
+  "stadio": "Raymond James Stadium",
+  "squadre": [
+   {
+    "nome": "Tampa Bay Buccaneers",
+    "punti": 31
+   },
+   {
+    "nome": "Kansas City Chiefs",
+    "punti": 9
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl LV",
+   "en": "Super Bowl LV",
+   "de": "Super Bowl LV"
+  },
+  "indizio": {
+   "it": "Tom Brady lancia tre touchdown, due per Rob Gronkowski e uno per Antonio Brown, e a 43 anni è il più anziano MVP, il quinto titolo personale, record. Gli sconfitti restano senza touchdown e vengono penalizzati per 95 yard nel solo primo tempo, record. Bruce Arians, a 68 anni, è il più anziano allenatore a vincere una finale.",
+   "en": "Tom Brady throws three touchdowns, two to Rob Gronkowski and one to Antonio Brown, and at 43 is the oldest MVP, his fifth personal award, a record. The losers finish without a touchdown and are penalized for 95 yards in the first half alone, a record. Bruce Arians, at 68, is the oldest coach to win a final.",
+   "de": "Tom Brady wirft drei Touchdowns, zwei auf Rob Gronkowski und einen auf Antonio Brown, und ist mit 43 Jahren der älteste MVP, seine fünfte persönliche Auszeichnung, ein Rekord. Die Verlierer bleiben ohne Touchdown und werden allein in der ersten Halbzeit mit 95 Yards bestraft, ein Rekord. Bruce Arians ist mit 68 Jahren der älteste Trainer, der ein Finale gewinnt."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LV"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-56",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2021,
+  "fase": "superbowl",
+  "data": "2022-02-13",
+  "citta": "Inglewood",
+  "stadio": "SoFi Stadium",
+  "squadre": [
+   {
+    "nome": "Los Angeles Rams",
+    "punti": 23
+   },
+   {
+    "nome": "Cincinnati Bengals",
+    "punti": 20
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl LVI",
+   "en": "Super Bowl LVI",
+   "de": "Super Bowl LVI"
+  },
+  "indizio": {
+   "it": "Cooper Kupp, nominato MVP con due touchdown, segna il touchdown decisivo da 1 yard a 1 minuto e 25 secondi dalla fine, dopo un drive di 15 giocate e 79 yard. Gli sfidanti passano in vantaggio con un touchdown da 75 yard di Tee Higgins alla prima azione del secondo tempo. Aaron Donald ferma l'ultimo attacco avversario sul quarto down. Sean McVay, a 36 anni, è il più giovane allenatore vincitore.",
+   "en": "Cooper Kupp, named MVP with two touchdowns, scores the decisive 1-yard touchdown with 1 minute 25 seconds left, after a 15-play, 79-yard drive. The challengers take the lead with a 75-yard touchdown by Tee Higgins on the first play of the second half. Aaron Donald stops the opponents' last drive on fourth down. Sean McVay, at 36, is the youngest winning coach.",
+   "de": "Cooper Kupp, mit zwei Touchdowns zum MVP gewählt, erzielt 1 Minute und 25 Sekunden vor Schluss den entscheidenden 1-Yard-Touchdown, nach einem Drive über 15 Spielzüge und 79 Yards. Die Herausforderer gehen mit einem 75-Yard-Touchdown von Tee Higgins beim ersten Spielzug der zweiten Halbzeit in Führung. Aaron Donald stoppt den letzten Angriff der Gegner beim vierten Versuch. Sean McVay ist mit 36 Jahren der jüngste siegreiche Trainer."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LVI"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-57",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2022,
+  "fase": "superbowl",
+  "data": "2023-02-12",
+  "citta": "Glendale",
+  "stadio": "State Farm Stadium",
+  "squadre": [
+   {
+    "nome": "Kansas City Chiefs",
+    "punti": 38
+   },
+   {
+    "nome": "Philadelphia Eagles",
+    "punti": 35
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl LVII",
+   "en": "Super Bowl LVII",
+   "de": "Super Bowl LVII"
+  },
+  "indizio": {
+   "it": "Jalen Hurts segna tre touchdown di corsa e gli sconfitti totalizzano 35 punti, il massimo per una squadra che perde una finale. Kadarius Toney riporta un punt di 65 yard, il più lungo di sempre. Un fallo di trattenuta su James Bradberry dà ai vincitori un nuovo set di tentativi, e Harrison Butker calcia il field goal da 27 yard a 8 secondi dalla fine. Patrick Mahomes è nominato MVP.",
+   "en": "Jalen Hurts scores three rushing touchdowns and the losers total 35 points, the most for a team that loses a final. Kadarius Toney returns a punt 65 yards, the longest ever. A holding penalty on James Bradberry gives the winners a new set of downs, and Harrison Butker kicks the 27-yard field goal with 8 seconds left. Patrick Mahomes is named MVP.",
+   "de": "Jalen Hurts erzielt drei Lauf-Touchdowns, und die Verlierer kommen auf 35 Punkte, die meisten für ein Team, das ein Finale verliert. Kadarius Toney trägt einen Punt 65 Yards zurück, den längsten aller Zeiten. Ein Holding-Foul gegen James Bradberry gibt den Siegern einen neuen Satz Versuche, und Harrison Butker verwandelt acht Sekunden vor Schluss das 27-Yard-Field-Goal. Patrick Mahomes wird zum MVP gewählt."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LVII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-58",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2023,
+  "fase": "superbowl",
+  "data": "2024-02-11",
+  "citta": "Paradise",
+  "stadio": "Allegiant Stadium",
+  "squadre": [
+   {
+    "nome": "Kansas City Chiefs",
+    "punti": 25
+   },
+   {
+    "nome": "San Francisco 49ers",
+    "punti": 22
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl LVIII",
+   "en": "Super Bowl LVIII",
+   "de": "Super Bowl LVIII"
+  },
+  "indizio": {
+   "it": "È la seconda finale decisa ai tempi supplementari. Jake Moody calcia un field goal da 55 yard, record, subito superato da quello da 57 yard di Harrison Butker. Dopo il pareggio a 19 allo scadere, i supplementari finiscono con un touchdown da 3 yard di Mecole Hardman, nell'ultima azione. I vincitori sono i primi a ripetersi dal 2004. Patrick Mahomes è nominato MVP per la terza volta.",
+   "en": "It is the second final decided in overtime. Jake Moody kicks a 55-yard field goal, a record, soon surpassed by Harrison Butker's 57-yarder. After the 19-19 tie at the buzzer, overtime ends with a 3-yard touchdown by Mecole Hardman on the final play. The winners are the first to repeat since 2004. Patrick Mahomes is named MVP for the third time.",
+   "de": "Es ist das zweite Finale, das in der Verlängerung entschieden wird. Jake Moody verwandelt ein 55-Yard-Field-Goal, ein Rekord, das bald von Harrison Butkers 57-Yarder übertroffen wird. Nach dem 19 zu 19 mit Schlusspfiff endet die Verlängerung mit einem 3-Yard-Touchdown von Mecole Hardman im letzten Spielzug. Die Sieger sind die ersten Titelverteidiger seit 2004. Patrick Mahomes wird zum dritten Mal zum MVP gewählt."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LVIII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-59",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2024,
+  "fase": "superbowl",
+  "data": "2025-02-09",
+  "citta": "New Orleans",
+  "stadio": "Caesars Superdome",
+  "squadre": [
+   {
+    "nome": "Philadelphia Eagles",
+    "punti": 40
+   },
+   {
+    "nome": "Kansas City Chiefs",
+    "punti": 22
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl LIX",
+   "en": "Super Bowl LIX",
+   "de": "Super Bowl LIX"
+  },
+  "indizio": {
+   "it": "Gli sconfitti cercano di diventare la prima squadra a vincere tre finali di fila, ma nel primo tempo non segnano e guadagnano solo 23 yard. Il rookie Cooper DeJean riporta un intercetto di 38 yard in touchdown. Jalen Hurts, nominato MVP, corre per 72 yard, record per un quarterback. Il quarterback avversario Patrick Mahomes viene sackato sei volte. Xavier Worthy segna due touchdown e chiude con 157 yard, record per un esordiente.",
+   "en": "The losers try to become the first team to win three finals in a row, but they score nothing in the first half and gain only 23 yards. Rookie Cooper DeJean returns a 38-yard interception for a touchdown. Jalen Hurts, named MVP, rushes for 72 yards, a record for a quarterback. The opposing quarterback Patrick Mahomes is sacked six times. Xavier Worthy scores two touchdowns and finishes with 157 yards, a record for a rookie.",
+   "de": "Die Verlierer wollen als erstes Team drei Finals in Folge gewinnen, bleiben aber in der ersten Halbzeit ohne Punkte und kommen nur auf 23 Yards. Rookie Cooper DeJean trägt eine 38-Yard-Interception zum Touchdown zurück. Jalen Hurts, zum MVP gewählt, läuft für 72 Yards, ein Rekord für einen Quarterback. Der gegnerische Quarterback Patrick Mahomes wird sechsmal gesackt. Xavier Worthy erzielt zwei Touchdowns und kommt auf 157 Yards, ein Rekord für einen Neuling."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LIX"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-60",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2025,
+  "fase": "superbowl",
+  "data": "2026-02-08",
+  "citta": "Santa Clara",
+  "stadio": "Levi's Stadium",
+  "squadre": [
+   {
+    "nome": "Seattle Seahawks",
+    "punti": 29
+   },
+   {
+    "nome": "New England Patriots",
+    "punti": 13
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl LX",
+   "en": "Super Bowl LX",
+   "de": "Super Bowl LX"
+  },
+  "indizio": {
+   "it": "Il kicker Jason Myers mette a segno cinque field goal, record per una finale, e il primo touchdown arriva solo nel quarto periodo, con AJ Barner. Uchenna Nwosu riporta un intercetto di 45 yard in meta a 4 minuti e 27 secondi dalla fine. Kenneth Walker III, con 135 yard di corsa, è il primo running back nominato MVP dal 1997. Gli sconfitti sono la prima squadra a perdere sei finali.",
+   "en": "Kicker Jason Myers makes five field goals, a record for a final, and the first touchdown comes only in the fourth quarter, by AJ Barner. Uchenna Nwosu returns a 45-yard interception for a touchdown with 4 minutes 27 seconds left. Kenneth Walker III, with 135 rushing yards, is the first running back named MVP since 1997. The losers are the first team to lose six finals.",
+   "de": "Kicker Jason Myers verwandelt fünf Field Goals, ein Rekord für ein Finale, und der erste Touchdown fällt erst im vierten Viertel, durch AJ Barner. Uchenna Nwosu trägt 4 Minuten und 27 Sekunden vor Schluss eine 45-Yard-Interception in die Endzone. Kenneth Walker III wird mit 135 Lauf-Yards als erster Running Back seit 1997 zum MVP gewählt. Die Verlierer sind das erste Team, das sechs Finals verliert."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LX"
+  ],
+  "verificata": true
  }
 ]
