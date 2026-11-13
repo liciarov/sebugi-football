@@ -1,0 +1,352 @@
+[
+ {
+  "id": "sb-03",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1968,
+  "fase": "superbowl",
+  "data": "1969-01-12",
+  "citta": "Miami",
+  "stadio": "Orange Bowl",
+  "squadre": [
+   {
+    "nome": "New York Jets",
+    "punti": 16
+   },
+   {
+    "nome": "Baltimore Colts",
+    "punti": 7
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl III",
+   "en": "Super Bowl III",
+   "de": "Super Bowl III"
+  },
+  "indizio": {
+   "it": "Tre giorni prima, il quarterback della squadra dell'AFL dice in pubblico: \"Vinceremo la partita. Lo garantisco\". Gli avversari, della NFL, lanciano quattro intercetti. Matt Snell segna di corsa, Jim Turner calcia tre field goal e Jerry Hill accorcia solo nel finale. Namath è nominato MVP senza aver lanciato nemmeno un touchdown.",
+   "en": "Three days earlier, the quarterback of the AFL team says in public: \"We're gonna win the game. I guarantee it.\" The NFL opponents throw four interceptions. Matt Snell scores on the ground, Jim Turner kicks three field goals and Jerry Hill only closes the gap late. Namath is named MVP without having thrown a single touchdown pass.",
+   "de": "Drei Tage zuvor sagt der Quarterback des AFL-Teams öffentlich: \"Wir gewinnen das Spiel. Das garantiere ich.\" Die Gegner aus der NFL werfen vier Interceptions. Matt Snell punktet per Lauf, Jim Turner verwandelt drei Field Goals und Jerry Hill verkürzt erst spät. Namath wird zum MVP gewählt, ohne einen einzigen Touchdown-Pass geworfen zu haben."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_III"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "nfl-1967",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1967,
+  "fase": "campionato_nfl",
+  "data": "1967-12-31",
+  "citta": "Green Bay",
+  "stadio": "Lambeau Field",
+  "squadre": [
+   {
+    "nome": "Green Bay Packers",
+    "punti": 21
+   },
+   {
+    "nome": "Dallas Cowboys",
+    "punti": 17
+   }
+  ],
+  "titolo": {
+   "it": "Ice Bowl",
+   "en": "Ice Bowl",
+   "de": "Ice Bowl"
+  },
+  "indizio": {
+   "it": "Il giorno di San Silvestro il termometro segna circa meno 26 gradi al calcio d'inizio. Boyd Dowler prende due touchdown, George Andrie ne segna uno su un fumble, Dan Reeves lancia un passaggio da 50 yard dopo una finta di corsa. Sul 3° down a circa 60 centimetri dalla linea di meta e con circa 16 secondi da giocare, il quarterback decide di tenere la palla e passa da solo, aiutato dal blocco di Jerry Kramer e Ken Bowman.",
+   "en": "On New Year's Eve the temperature at kickoff is about minus 15 degrees Fahrenheit. Boyd Dowler catches two touchdowns, George Andrie scores one on a fumble return, and Dan Reeves throws a 50-yard option pass. On third-and-goal from about two feet out, with roughly 16 seconds left, the quarterback keeps the ball himself and sneaks in, helped by the double-team block of Jerry Kramer and Ken Bowman.",
+   "de": "Am Silvesterabend liegt die Temperatur beim Anstoß bei etwa minus 26 Grad Celsius. Boyd Dowler fängt zwei Touchdowns, George Andrie punktet nach einem Fumble, Dan Reeves wirft einen 50-Yard-Pass nach einer Lauf-Finte. Beim dritten Versuch, etwa 60 Zentimeter vor der Endzone und mit rund 16 Sekunden Restzeit, behält der Quarterback den Ball selbst und läuft hinein, geschützt vom Doppelblock von Jerry Kramer und Ken Bowman."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/1967_NFL_Championship_Game"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "po-1972",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1972,
+  "fase": "playoff",
+  "data": "1972-12-23",
+  "citta": "Pittsburgh",
+  "stadio": "Three Rivers Stadium",
+  "squadre": [
+   {
+    "nome": "Pittsburgh Steelers",
+    "punti": 13
+   },
+   {
+    "nome": "Oakland Raiders",
+    "punti": 7
+   }
+  ],
+  "titolo": {
+   "it": "Immaculate Reception",
+   "en": "Immaculate Reception",
+   "de": "Immaculate Reception"
+  },
+  "indizio": {
+   "it": "La squadra di casa perde 7 a 6, ha 22 secondi sul cronometro, nessun timeout e deve fare 10 yard al quarto down dalla propria linea delle 40. Terry Bradshaw, sotto pressione, lancia verso John Fuqua, che si scontra con il safety Jack Tatum. La palla rimbalza, e Franco Harris la raccoglie un attimo prima che tocchi terra e corre in meta. Ancora oggi si discute su chi abbia toccato la palla per ultimo.",
+   "en": "The home team trails 7 to 6, with 22 seconds left, no timeouts and fourth-and-10 from its own 40. Terry Bradshaw, under pressure, throws toward John Fuqua, who collides with safety Jack Tatum. The ball bounces away, and Franco Harris scoops it up just before it hits the ground and runs for the touchdown. To this day people argue about who touched the ball last.",
+   "de": "Das Heimteam liegt mit 6 zu 7 zurück, hat noch 22 Sekunden, keine Auszeit mehr und steht vor einem vierten Versuch über 10 Yards an der eigenen 40. Terry Bradshaw wirft unter Druck auf John Fuqua, der mit Safety Jack Tatum zusammenprallt. Der Ball springt weg, Franco Harris fängt ihn kurz vor dem Boden und läuft zum Touchdown. Bis heute wird gestritten, wer den Ball zuletzt berührt hat."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Immaculate_Reception"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-42",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2007,
+  "fase": "superbowl",
+  "data": "2008-02-03",
+  "citta": "Glendale",
+  "stadio": "University of Phoenix Stadium",
+  "squadre": [
+   {
+    "nome": "New York Giants",
+    "punti": 17
+   },
+   {
+    "nome": "New England Patriots",
+    "punti": 14
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XLII",
+   "en": "Super Bowl XLII",
+   "de": "Super Bowl XLII"
+  },
+  "indizio": {
+   "it": "Una squadra arriva con 18 vittorie su 18 e punta a una stagione perfetta da 19 a 0, come i Miami Dolphins del 1972. Nell'ultimo drive degli sfidanti, partito dalle proprie 17 yard con 2 minuti e 39 secondi da giocare, David Tyree blocca un lancio da 32 yard contro il proprio casco. Plaxico Burress segna il touchdown decisivo da 13 yard quando mancano 35 secondi. Eli Manning è nominato MVP.",
+   "en": "One team arrives with 18 wins out of 18 and aims for a perfect 19-0 season, like the 1972 Miami Dolphins. On the challengers' final drive, which starts at their own 17 with 2:39 left, David Tyree pins a 32-yard pass against his helmet. Plaxico Burress scores the decisive 13-yard touchdown with 35 seconds left. Eli Manning is named MVP.",
+   "de": "Ein Team kommt mit 18 Siegen aus 18 Spielen und strebt eine perfekte Saison mit 19:0 an, wie die Miami Dolphins von 1972. Beim letzten Drive der Herausforderer, der an der eigenen 17-Yard-Linie mit 2:39 Restzeit beginnt, klemmt David Tyree einen 32-Yard-Pass gegen seinen Helm. Plaxico Burress erzielt 35 Sekunden vor Schluss den entscheidenden 13-Yard-Touchdown. Eli Manning wird zum MVP gewählt."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XLII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-51",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2016,
+  "fase": "superbowl",
+  "data": "2017-02-05",
+  "citta": "Houston",
+  "stadio": "NRG Stadium",
+  "squadre": [
+   {
+    "nome": "New England Patriots",
+    "punti": 34
+   },
+   {
+    "nome": "Atlanta Falcons",
+    "punti": 28
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl LI",
+   "en": "Super Bowl LI",
+   "de": "Super Bowl LI"
+  },
+  "indizio": {
+   "it": "Una squadra è avanti 28 a 3 nel corso del terzo quarto, dopo un intercetto restituito per 82 yard da Robert Alford. Poi rimonta 25 punti, la più grande rimonta di una finale, e porta la partita ai tempi supplementari, per la prima volta in una finale. James White segna tre touchdown, l'ultimo di corsa da 2 yard. Tom Brady vince il suo quarto titolo di MVP.",
+   "en": "One team leads 28 to 3 in the third quarter, after an 82-yard interception return by Robert Alford. The other then comes back from 25 points down, the biggest comeback in a final, and forces the first overtime in the history of the game. James White scores three touchdowns, the last one a 2-yard run. Tom Brady wins his fourth MVP award.",
+   "de": "Ein Team führt im dritten Viertel mit 28 zu 3, nach einer 82 Yards langen Interception von Robert Alford, die zum Touchdown zurückgetragen wird. Das andere Team holt 25 Punkte Rückstand auf, die größte Aufholjagd eines Finales, und erzwingt die erste Verlängerung der Geschichte. James White erzielt drei Touchdowns, den letzten per 2-Yard-Lauf. Tom Brady gewinnt seine vierte MVP-Auszeichnung."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_LI"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "nfc-1981",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1981,
+  "fase": "finale_conference",
+  "data": "1982-01-10",
+  "citta": "San Francisco",
+  "stadio": "Candlestick Park",
+  "squadre": [
+   {
+    "nome": "San Francisco 49ers",
+    "punti": 28
+   },
+   {
+    "nome": "Dallas Cowboys",
+    "punti": 27
+   }
+  ],
+  "titolo": {
+   "it": "The Catch",
+   "en": "The Catch",
+   "de": "The Catch"
+  },
+  "indizio": {
+   "it": "Gli ospiti conducono 27 a 21 dopo un touchdown da 21 yard di Danny White per Doug Cosbie. Poi Joe Montana lancia verso il fondo della end zone e Dwight Clark prende il touchdown da 6 yard quando mancano 51 secondi. Ray Wersching trasforma il punto extra che porta il risultato sul 28 a 27.",
+   "en": "The visitors lead 27 to 21 after a 21-yard touchdown from Danny White to Doug Cosbie. Then Joe Montana throws toward the back of the end zone and Dwight Clark catches the 6-yard touchdown with 51 seconds left. Ray Wersching kicks the extra point that makes it 28 to 27.",
+   "de": "Die Gäste führen mit 27 zu 21 nach einem 21-Yard-Touchdown von Danny White auf Doug Cosbie. Dann wirft Joe Montana in Richtung des hinteren Teils der Endzone und Dwight Clark fängt den 6-Yard-Touchdown 51 Sekunden vor Schluss. Ray Wersching verwandelt den Extrapunkt zum 28 zu 27."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/The_Catch_(American_football)"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "wc-1999",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1999,
+  "fase": "playoff",
+  "data": "2000-01-08",
+  "citta": "Nashville",
+  "stadio": "Adelphia Coliseum",
+  "squadre": [
+   {
+    "nome": "Tennessee Titans",
+    "punti": 22
+   },
+   {
+    "nome": "Buffalo Bills",
+    "punti": 16
+   }
+  ],
+  "titolo": {
+   "it": "Music City Miracle",
+   "en": "Music City Miracle",
+   "de": "Music City Miracle"
+  },
+  "indizio": {
+   "it": "A 16 secondi dalla fine gli ospiti vanno avanti 16 a 15 con un field goal da 41 yard di Steve Christie. Sul calcio d'inizio successivo Lorenzo Neal riceve e passa indietro a Frank Wycheck, che lancia in orizzontale a Kevin Dyson. Dyson corre per 75 yard fino alla meta a 3 secondi dalla fine. La revisione al video controlla se il passaggio fosse in avanti, ma la decisione dei giudici in campo resta valida.",
+   "en": "With 16 seconds left the visitors go ahead 16 to 15 on a 41-yard field goal by Steve Christie. On the following kickoff Lorenzo Neal fields the ball and hands it back to Frank Wycheck, who throws across the field to Kevin Dyson. Dyson runs 75 yards to the end zone with 3 seconds left. Replay officials check whether the throw went forward, but the call on the field stands.",
+   "de": "16 Sekunden vor Schluss gehen die Gäste durch ein 41-Yard-Field-Goal von Steve Christie mit 16 zu 15 in Führung. Beim folgenden Kickoff fängt Lorenzo Neal den Ball und reicht ihn zurück an Frank Wycheck, der quer über das Feld auf Kevin Dyson wirft. Dyson läuft 75 Yards bis in die Endzone, 3 Sekunden vor dem Ende. Die Videoprüfung klärt, ob der Pass nach vorn ging, doch die Entscheidung auf dem Feld bleibt bestehen."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Music_City_Miracle"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-25",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1990,
+  "fase": "superbowl",
+  "data": "1991-01-27",
+  "citta": "Tampa",
+  "stadio": "Tampa Stadium",
+  "squadre": [
+   {
+    "nome": "New York Giants",
+    "punti": 20
+   },
+   {
+    "nome": "Buffalo Bills",
+    "punti": 19
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXV",
+   "en": "Super Bowl XXV",
+   "de": "Super Bowl XXV"
+  },
+  "indizio": {
+   "it": "Una squadra segna un touchdown di corsa da 31 yard con Thurman Thomas e va sul 19 a 17. Il kicker Scott Norwood tenta un field goal da 47 yard a 8 secondi dalla fine: il pallone finisce a destra, a meno di un metro dal palo. Ottis Anderson, con 102 yard di corsa e un touchdown, è nominato MVP.",
+   "en": "One team takes a 19 to 17 lead on a 31-yard touchdown run by Thurman Thomas. Kicker Scott Norwood attempts a 47-yard field goal with 8 seconds left: the ball sails right, less than a yard outside the upright. Ottis Anderson, with 102 rushing yards and a touchdown, is named MVP.",
+   "de": "Ein Team geht durch einen 31-Yard-Touchdown-Lauf von Thurman Thomas mit 19 zu 17 in Führung. Kicker Scott Norwood versucht acht Sekunden vor Schluss ein 47-Yard-Field-Goal: Der Ball fliegt rechts vorbei, weniger als einen Meter neben dem Pfosten. Ottis Anderson wird mit 102 Lauf-Yards und einem Touchdown zum MVP gewählt."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXV"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "afc-1986",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1986,
+  "fase": "finale_conference",
+  "data": "1987-01-11",
+  "citta": "Cleveland",
+  "stadio": "Cleveland Municipal Stadium",
+  "squadre": [
+   {
+    "nome": "Denver Broncos",
+    "punti": 23
+   },
+   {
+    "nome": "Cleveland Browns",
+    "punti": 20
+   }
+  ],
+  "titolo": {
+   "it": "The Drive",
+   "en": "The Drive",
+   "de": "The Drive"
+  },
+  "indizio": {
+   "it": "I padroni di casa sono avanti 20 a 13 e mancano 5 minuti e 32 secondi. Gli ospiti partono dalla propria linea delle 2 yard e fanno 98 yard in 15 giocate. John Elway lancia il touchdown da 5 yard a Mark Jackson quando restano 37 secondi. Nei tempi supplementari Rich Karlis decide con un field goal da 33 yard.",
+   "en": "The home team leads 20 to 13 with 5:32 to play. The visitors start from their own 2-yard line and march 98 yards in 15 plays. John Elway throws the 5-yard touchdown to Mark Jackson with 37 seconds left. In overtime Rich Karlis decides it with a 33-yard field goal.",
+   "de": "Das Heimteam führt mit 20 zu 13, es sind noch 5:32 zu spielen. Die Gäste starten an der eigenen 2-Yard-Linie und marschieren in 15 Spielzügen 98 Yards. John Elway wirft 37 Sekunden vor Schluss den 5-Yard-Touchdown auf Mark Jackson. In der Verlängerung entscheidet Rich Karlis mit einem 33-Yard-Field-Goal."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/The_Drive_(American_football)"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-49",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2014,
+  "fase": "superbowl",
+  "data": "2015-02-01",
+  "citta": "Glendale",
+  "stadio": "University of Phoenix Stadium",
+  "squadre": [
+   {
+    "nome": "New England Patriots",
+    "punti": 28
+   },
+   {
+    "nome": "Seattle Seahawks",
+    "punti": 24
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XLIX",
+   "en": "Super Bowl XLIX",
+   "de": "Super Bowl XLIX"
+  },
+  "indizio": {
+   "it": "Una squadra è sotto 24 a 14 nel terzo quarto e rimonta con i touchdown di Danny Amendola e Julian Edelman. Negli ultimi secondi gli avversari sono sulla linea della 1 yard. Il cornerback Malcolm Butler intercetta il lancio di Russell Wilson destinato a Ricardo Lockette, quando mancano 20 secondi. Tom Brady vince il suo terzo titolo di MVP.",
+   "en": "One team trails 24 to 14 in the third quarter and comes back with touchdowns from Danny Amendola and Julian Edelman. In the final seconds the opponents are at the 1-yard line. Cornerback Malcolm Butler intercepts Russell Wilson's pass intended for Ricardo Lockette with 20 seconds left. Tom Brady wins his third MVP award.",
+   "de": "Ein Team liegt im dritten Viertel mit 14 zu 24 zurück und kommt durch Touchdowns von Danny Amendola und Julian Edelman zurück. In den Schlusssekunden stehen die Gegner an der 1-Yard-Linie. Cornerback Malcolm Butler fängt Russell Wilsons Pass auf Ricardo Lockette 20 Sekunden vor Schluss ab. Tom Brady gewinnt seine dritte MVP-Auszeichnung."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XLIX"
+  ],
+  "verificata": true
+ }
+]

@@ -1,0 +1,97 @@
+/* Sebugi Football: notte allo stadio. Blu notte, gesso, cuoio, verde prato */
+:root {
+    --bg: #0f1c2e;
+    --surface: #17283f;
+    --surface-2: #1d3350;
+    --line: rgba(233, 226, 207, 0.16);
+    --text: #f1ecdd;
+    --text-soft: #c9c3b0;
+    --accent: #e0a04a;
+    --accent-deep: #b97d2c;
+    --turf: #2f6b3f;
+    --ok: #4c9a6a; --warn: #d69a3c; --bad: #c25b52; --neutral: #8a91a3;
+    --font-display: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+    --font-ui: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    --radius: 14px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+    font-family: var(--font-ui); font-size: 16px; line-height: 1.5; color: var(--text);
+    min-height: 100dvh; -webkit-font-smoothing: antialiased;
+    background: radial-gradient(900px 500px at 50% -8%, rgba(224, 160, 74, 0.16), transparent 70%), var(--bg);
+    background-attachment: fixed;
+}
+button { font-family: var(--font-ui); -webkit-tap-highlight-color: transparent; cursor: pointer; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+
+h1 { font-family: var(--font-display); font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text); }
+h1 span { color: var(--accent); }
+
+/* Header home */
+#schermata-home header { text-align: center; padding: calc(40px + env(safe-area-inset-top)) 24px 20px; position: relative; }
+#schermata-home header h1 { font-size: 3.2rem; line-height: 1; margin-bottom: 8px; }
+#schermata-home header p { font-size: 1.1rem; color: var(--text-soft); }
+#illustrazione-home { max-width: 340px; margin: 18px auto 0; }
+#illustrazione-home svg, #illustrazione svg { width: 100%; height: auto; display: block; }
+
+#sel-interfaccia { display: flex; gap: 8px; justify-content: center; margin-bottom: 20px; }
+#sel-interfaccia button { width: 40px; height: 28px; border-radius: 6px; border: 2px solid transparent; overflow: hidden; padding: 0; background: none; opacity: 0.6; }
+#sel-interfaccia button.attivo { border-color: var(--accent); opacity: 1; }
+#sel-interfaccia svg { width: 100%; height: 100%; display: block; }
+
+main { max-width: 640px; margin: 0 auto; padding: 0 20px 24px; }
+
+/* Filtri */
+#filtri { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px 20px; }
+#filtri h2 { font-family: var(--font-display); font-size: 1.6rem; letter-spacing: 0.04em; margin-bottom: 14px; }
+.filtro-gruppo { margin-bottom: 18px; }
+.filtro-gruppo label { display: block; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin-bottom: 8px; }
+.suggerimento { font-size: 0.9rem; color: var(--text-soft); margin-bottom: 14px; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { border: 1px solid var(--line); background: var(--surface-2); color: var(--text); border-radius: 999px; padding: 8px 14px; font-size: 0.95rem; }
+.chip.on { background: var(--accent); color: #1a1205; border-color: var(--accent); font-weight: 600; }
+.chip:disabled { opacity: 0.45; cursor: not-allowed; }
+
+#btn-gioca, #btn-mostra-risposta {
+    width: 100%; border: 0; border-radius: var(--radius); padding: 16px; font-size: 1.1rem; font-weight: 600;
+    background: var(--turf); color: #f4f0e2; margin-top: 6px;
+}
+#btn-gioca:active, #btn-mostra-risposta:active { transform: scale(0.99); }
+
+/* Gioco */
+#schermata-gioco header { display: flex; align-items: center; justify-content: center; position: relative; padding: calc(16px + env(safe-area-inset-top)) 20px 16px; border-bottom: 1px solid var(--line); }
+#schermata-gioco header h1 { font-size: 1.5rem; }
+#btn-home { position: absolute; left: 16px; top: 50%; transform: translateY(-50%); background: none; border: 0; color: var(--text-soft); font-size: 1rem; padding: 8px; }
+#schermata-gioco main { padding-top: 22px; }
+
+#card-domanda { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px 20px; margin-bottom: 16px; }
+#info-domanda { font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin-bottom: 10px; }
+#testo-domanda { font-size: 1.15rem; line-height: 1.6; white-space: pre-line; }
+
+#risposta { background: var(--surface-2); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; }
+#illustrazione { max-width: 300px; margin: 0 auto 12px; }
+#titolo-risposta { font-family: var(--font-display); font-size: 2rem; letter-spacing: 0.04em; text-align: center; color: var(--accent); }
+#dettagli-risposta { text-align: center; white-space: pre-line; color: var(--text-soft); margin-top: 6px; }
+#testo-risposta { margin-top: 10px; line-height: 1.6; }
+
+#bottoni-anki { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; margin-top: 18px; }
+.anki-btn { border: 0; border-radius: 10px; padding: 12px 2px; font-size: 0.78rem; font-weight: 600; color: #101010; background: var(--c); line-height: 1.15; }
+#btn-corretto { --c: var(--ok); } #btn-insicuro { --c: var(--warn); } #btn-sbagliato { --c: var(--bad); }
+#btn-nonricordo { --c: var(--neutral); } #btn-nonsapevo { --c: #a98bc4; }
+
+/* Grafico */
+#statistiche { max-width: 640px; margin: 0 auto; padding: 0 20px 24px; }
+#statistiche h3 { font-size: 0.85rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-soft); margin-bottom: 10px; }
+#stat-grafico { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; align-items: end; }
+.stat-col { display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 0.72rem; text-align: center; }
+.stat-asta { width: 100%; max-width: 44px; height: 90px; background: var(--surface); border-radius: 8px; display: flex; align-items: flex-end; overflow: hidden; }
+.stat-riempi { width: 100%; border-radius: 8px 8px 0 0; transition: height 0.3s; }
+.stat-corretto .stat-riempi { background: var(--ok); } .stat-insicuro .stat-riempi { background: var(--warn); }
+.stat-sbagliato .stat-riempi { background: var(--bad); } .stat-nonricordavo .stat-riempi { background: var(--neutral); }
+.stat-nonsapevo .stat-riempi { background: #a98bc4; }
+.stat-pct { font-weight: 600; font-size: 0.85rem; }
+.stat-nome { color: var(--text-soft); }
+
+/* Nota legale in ogni pagina */
+#nota-legale { max-width: 640px; margin: 8px auto 0; padding: 18px 20px calc(24px + env(safe-area-inset-bottom)); text-align: center; font-size: 0.78rem; color: var(--text-soft); border-top: 1px solid var(--line); }
