@@ -2273,5 +2273,495 @@
    "https://en.wikipedia.org/wiki/Super_Bowl_LX"
   ],
   "verificata": true
+ },
+ {
+  "id": "nfl-1958",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1958,
+  "fase": "campionato_nfl",
+  "data": "1958-12-28",
+  "citta": "New York",
+  "stadio": "Yankee Stadium",
+  "squadre": [
+   {
+    "nome": "Baltimore Colts",
+    "punti": 23
+   },
+   {
+    "nome": "New York Giants",
+    "punti": 17
+   }
+  ],
+  "titolo": {
+   "it": "Campionato NFL 1958",
+   "en": "Campionato NFL 1958",
+   "de": "Campionato NFL 1958"
+  },
+  "indizio": {
+   "it": "È la prima finale della lega decisa ai tempi supplementari a morte improvvisa. Dopo il 17 pari in regolamentare, un calcio da 20 yard di Steve Myhra a 7 secondi dalla fine ha riportato la parità. Poi Alan Ameche segna di corsa da 1 yard dopo un drive di 80 yard. Raymond Berry chiude con 12 ricezioni per 178 yard. Un sondaggio tra giornalisti l'ha eletta la migliore partita del primo secolo della lega.",
+   "en": "It is the first league final decided in sudden-death overtime. After the 17-17 tie in regulation, a 20-yard kick by Steve Myhra with 7 seconds left had levelled the score. Then Alan Ameche scores on a 1-yard run after an 80-yard drive. Raymond Berry finishes with 12 catches for 178 yards. A poll of journalists voted it the best game of the league's first century.",
+   "de": "Es ist das erste Finale der Liga, das in der Sudden-Death-Verlängerung entschieden wird. Nach dem 17:17 in der regulären Spielzeit hatte ein 20-Yard-Kick von Steve Myhra sieben Sekunden vor Schluss den Ausgleich gebracht. Dann erzielt Alan Ameche nach einem 80-Yard-Drive einen Lauf-Touchdown aus 1 Yard. Raymond Berry beendet das Spiel mit 12 Fängen für 178 Yards. Eine Umfrage unter Journalisten wählte es zum besten Spiel des ersten Jahrhunderts der Liga."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/1958_NFL_Championship_Game"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "heidi-1968",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1968,
+  "fase": "stagione_regolare",
+  "data": "1968-11-17",
+  "citta": "Oakland",
+  "stadio": "Oakland–Alameda County Coliseum",
+  "squadre": [
+   {
+    "nome": "Oakland Raiders",
+    "punti": 43
+   },
+   {
+    "nome": "New York Jets",
+    "punti": 32
+   }
+  ],
+  "titolo": {
+   "it": "La partita di Heidi",
+   "en": "La partita di Heidi",
+   "de": "La partita di Heidi"
+  },
+  "indizio": {
+   "it": "La rete televisiva interrompe la diretta per mandare in onda un film per ragazzi, mentre la partita è ancora in corso. Gli spettatori dell'Est e del Centro perdono il finale: nel finale i vincitori segnano due touchdown, uno su lancio da 43 yard di Daryle Lamonica per Charlie Smith e uno di Preston Ridlehuber su un fumble di ritorno del kickoff. In seguito la lega impose di mostrare le partite fino alla fine nella città della squadra ospite.",
+   "en": "The TV network cuts the broadcast to air a children's film while the game is still going on. Viewers in the East and Central zones miss the ending: in the closing stretch the winners score two touchdowns, a 43-yard pass from Daryle Lamonica to Charlie Smith and one by Preston Ridlehuber on a fumbled kickoff return. The league later required games to be shown to the end in the visiting team's home market.",
+   "de": "Der Fernsehsender unterbricht die Übertragung, um einen Kinderfilm zu zeigen, während das Spiel noch läuft. Die Zuschauer im Osten und in der Mitte verpassen das Ende: In der Schlussphase erzielen die Sieger zwei Touchdowns, einen 43-Yard-Pass von Daryle Lamonica auf Charlie Smith und einen von Preston Ridlehuber nach einem Fumble bei einem Kickoff-Return. Später verlangte die Liga, Spiele bis zum Ende im Heimatmarkt des Gastteams zu zeigen."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Heidi_Game"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "ghost-1977",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1977,
+  "fase": "playoff",
+  "data": "1977-12-24",
+  "citta": "Baltimore",
+  "stadio": "Memorial Stadium",
+  "squadre": [
+   {
+    "nome": "Oakland Raiders",
+    "punti": 37
+   },
+   {
+    "nome": "Baltimore Colts",
+    "punti": 31
+   }
+  ],
+  "titolo": {
+   "it": "Ghost to the Post",
+   "en": "Ghost to the Post",
+   "de": "Ghost to the Post"
+  },
+  "indizio": {
+   "it": "Partita della vigilia di Natale, decisa dopo due tempi supplementari. A pochi minuti dalla fine, Ken Stabler lancia 42 yard a Dave Casper, che si ferma a 14 yard dalla end zone: da lì arriva il field goal del pareggio con 29 secondi da giocare. Nel secondo supplementare, dopo 43 secondi, Stabler trova ancora Casper per un touchdown da 10 yard. Fu l'ultima apparizione ai playoff della squadra di casa.",
+   "en": "A Christmas Eve game decided after two overtimes. A few minutes from the end, Ken Stabler throws 42 yards to Dave Casper, who is brought down 14 yards from the end zone: from there comes the tying field goal with 29 seconds to play. In the second overtime, after 43 seconds, Stabler again finds Casper for a 10-yard touchdown. It was the home team's last playoff appearance.",
+   "de": "Ein Spiel am Heiligabend, das erst nach zwei Verlängerungen entschieden wird. Wenige Minuten vor Schluss wirft Ken Stabler 42 Yards auf Dave Casper, der 14 Yards vor der Endzone zu Fall kommt: Von dort fällt das Ausgleichs-Field-Goal bei noch 29 Sekunden. In der zweiten Verlängerung findet Stabler nach 43 Sekunden erneut Casper für einen 10-Yard-Touchdown. Es war der letzte Playoff-Auftritt der Gastgeber."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Ghost_to_the_Post"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "holyroller-1978",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1978,
+  "fase": "stagione_regolare",
+  "data": "1978-09-10",
+  "citta": "San Diego",
+  "stadio": "San Diego Stadium",
+  "squadre": [
+   {
+    "nome": "Oakland Raiders",
+    "punti": 21
+   },
+   {
+    "nome": "San Diego Chargers",
+    "punti": 20
+   }
+  ],
+  "titolo": {
+   "it": "Holy Roller",
+   "en": "Holy Roller",
+   "de": "Holy Roller"
+  },
+  "indizio": {
+   "it": "Sotto 20 a 14 con 10 secondi da giocare, i futuri vincitori vedono il quarterback Ken Stabler perdere il pallone mentre sta per essere placcato. Il pallone, sfuggito di mano, avanza verso la end zone e il tight end Dave Casper lo recupera a tempo scaduto per il touchdown. Gli arbitri convalidano. L'anno dopo la lega limita i recuperi in avanti dei fumble negli ultimi minuti.",
+   "en": "Trailing 20 to 14 with 10 seconds to play, the eventual winners see quarterback Ken Stabler lose the ball as he is about to be tackled. The ball, knocked loose, moves forward toward the end zone and tight end Dave Casper recovers it as time expires for the touchdown. The officials allow it. The following year the league restricts forward recoveries of fumbles in the closing minutes.",
+   "de": "Beim Stand von 14:20 und noch 10 Sekunden auf der Uhr verliert Quarterback Ken Stabler den Ball, als er gerade zu Fall gebracht wird. Der Ball, aus der Hand gelöst, bewegt sich Richtung Endzone, und Tight End Dave Casper erobert ihn bei ablaufender Zeit für den Touchdown. Die Schiedsrichter erkennen ihn an. Im folgenden Jahr schränkt die Liga das Vorwärts-Aufnehmen von Fumbles in der Schlussphase ein."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Holy_Roller_(American_football)"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "meadowlands-1978",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1978,
+  "fase": "stagione_regolare",
+  "data": "1978-11-19",
+  "citta": "East Rutherford",
+  "stadio": "Giants Stadium",
+  "squadre": [
+   {
+    "nome": "Philadelphia Eagles",
+    "punti": 19
+   },
+   {
+    "nome": "New York Giants",
+    "punti": 17
+   }
+  ],
+  "titolo": {
+   "it": "Miracle at the Meadowlands",
+   "en": "Miracle at the Meadowlands",
+   "de": "Miracle at the Meadowlands"
+  },
+  "indizio": {
+   "it": "I padroni di casa sono avanti 17 a 12 e gli avversari non hanno più timeout. Basterebbe far scorrere il tempo, ma il coordinatore chiama una giocata di corsa: il quarterback Joe Pisarcik perde il pallone sulla consegna a Larry Csonka. Herman Edwards lo raccoglie e corre 26 yard fino al touchdown, a circa mezzo minuto dalla fine. Il coordinatore viene licenziato il mattino dopo.",
+   "en": "The home team leads 17 to 12 and the visitors have no timeouts left. Running down the clock would be enough, but the coordinator calls a running play: quarterback Joe Pisarcik fumbles the handoff to Larry Csonka. Herman Edwards picks it up and runs 26 yards for the touchdown, about half a minute from the end. The coordinator is fired the next morning.",
+   "de": "Die Gastgeber führen mit 17:12, und die Gäste haben keine Timeouts mehr. Es würde genügen, die Uhr herunterlaufen zu lassen, doch der Koordinator ruft einen Laufspielzug: Quarterback Joe Pisarcik verliert den Ball bei der Übergabe an Larry Csonka. Herman Edwards nimmt ihn auf und läuft 26 Yards zum Touchdown, etwa eine halbe Minute vor Schluss. Der Koordinator wird am nächsten Morgen entlassen."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Miracle_at_the_Meadowlands"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "redright88-1981",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1980,
+  "fase": "playoff",
+  "data": "1981-01-04",
+  "citta": "Cleveland",
+  "stadio": "Cleveland Stadium",
+  "squadre": [
+   {
+    "nome": "Oakland Raiders",
+    "punti": 14
+   },
+   {
+    "nome": "Cleveland Browns",
+    "punti": 12
+   }
+  ],
+  "titolo": {
+   "it": "Red Right 88",
+   "en": "Red Right 88",
+   "de": "Red Right 88"
+  },
+  "indizio": {
+   "it": "Con 4 gradi Fahrenheit e cielo sereno, nell'ultimo minuto, sotto 14 a 12, la squadra di casa è vicina alla end zone e chiama la giocata «Red Slot Right, Halfback Stay, 88». Brian Sipe lancia verso Ozzie Newsome, ma il pallone è intercettato in end zone da Mike Davis.",
+   "en": "At 4 degrees Fahrenheit under a clear sky, in the final minute, trailing 14 to 12, the home team is near the end zone and calls the play «Red Slot Right, Halfback Stay, 88». Brian Sipe throws toward Ozzie Newsome, but the ball is intercepted in the end zone by Mike Davis.",
+   "de": "Bei 4 Grad Fahrenheit und klarem Himmel steht das Heimteam in der Schlussminute, beim Stand von 12:14, nahe der Endzone und ruft den Spielzug «Red Slot Right, Halfback Stay, 88». Brian Sipe wirft auf Ozzie Newsome, doch der Ball wird in der Endzone von Mike Davis abgefangen."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Red_Right_88"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "epic-1982",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1981,
+  "fase": "playoff",
+  "data": "1982-01-02",
+  "citta": "Miami",
+  "stadio": "Orange Bowl",
+  "squadre": [
+   {
+    "nome": "San Diego Chargers",
+    "punti": 41
+   },
+   {
+    "nome": "Miami Dolphins",
+    "punti": 38
+   }
+  ],
+  "titolo": {
+   "it": "Epic in Miami",
+   "en": "Epic in Miami",
+   "de": "Epic in Miami"
+  },
+  "indizio": {
+   "it": "Gli ospiti partono 24 a 0 nel primo quarto, poi i padroni di casa recuperano grazie al quarterback di riserva Don Strock, che chiude con 403 yard e 4 touchdown. Kellen Winslow, esausto, devìa con le dita un calcio che avrebbe vinto la partita, e un altro calcio è bloccato ai supplementari. Rolf Benirschke segna da 29 yard dopo 13 minuti e 52 secondi di overtime.",
+   "en": "The visitors start 24 to 0 in the first quarter, then the home side fights back thanks to backup quarterback Don Strock, who finishes with 403 yards and 4 touchdowns. Kellen Winslow, exhausted, deflects with his fingertips a kick that would have won the game, and another kick is blocked in overtime. Rolf Benirschke scores from 29 yards after 13 minutes 52 seconds of overtime.",
+   "de": "Die Gäste führen nach dem ersten Viertel 24:0, dann kämpfen sich die Gastgeber dank Ersatz-Quarterback Don Strock zurück, der mit 403 Yards und 4 Touchdowns abschließt. Kellen Winslow, erschöpft, lenkt mit den Fingerspitzen einen Kick ab, der das Spiel entschieden hätte, und in der Verlängerung wird ein weiterer Kick geblockt. Rolf Benirschke trifft nach 13 Minuten und 52 Sekunden der Overtime aus 29 Yards."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Epic_in_Miami"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "snowplow-1982",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1982,
+  "fase": "stagione_regolare",
+  "data": "1982-12-12",
+  "citta": "Foxborough",
+  "stadio": "Schaefer Stadium",
+  "squadre": [
+   {
+    "nome": "New England Patriots",
+    "punti": 3
+   },
+   {
+    "nome": "Miami Dolphins",
+    "punti": 0
+   }
+  ],
+  "titolo": {
+   "it": "Snowplow Game",
+   "en": "Snowplow Game",
+   "de": "Snowplow Game"
+  },
+  "indizio": {
+   "it": "Sotto una nevicata, la partita è ferma sullo 0 a 0 fino a pochi minuti dalla fine. A 4 minuti e 45 secondi dal termine, l'allenatore di casa fa cenno a un operaio con un trattore spazzaneve di pulire un punto del campo per il calciatore John Smith. Il field goal è l'unico punteggio del pomeriggio. La lega vietò poi i mezzi spazzaneve in campo durante le partite.",
+   "en": "In a snowfall, the game stays scoreless until a few minutes from the end. With 4 minutes 45 seconds left, the home coach signals a worker driving a tractor with a snow sweeper to clear a spot on the field for kicker John Smith. The field goal is the only score of the afternoon. The league later banned snow-clearing vehicles from the field during games.",
+   "de": "Bei Schneefall bleibt das Spiel bis wenige Minuten vor Schluss torlos. Bei noch 4 Minuten und 45 Sekunden gibt der Heimtrainer einem Arbeiter mit einem Traktor samt Schneekehrer das Zeichen, eine Stelle für Kicker John Smith freizuräumen. Das Field Goal ist der einzige Punktgewinn des Nachmittags. Die Liga verbot später Schneeräumfahrzeuge auf dem Feld während der Spiele."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Snowplow_Game"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "comeback-1993",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1992,
+  "fase": "playoff",
+  "data": "1993-01-03",
+  "citta": "Orchard Park",
+  "stadio": "Rich Stadium",
+  "squadre": [
+   {
+    "nome": "Buffalo Bills",
+    "punti": 41
+   },
+   {
+    "nome": "Houston Oilers",
+    "punti": 38
+   }
+  ],
+  "titolo": {
+   "it": "The Comeback",
+   "en": "The Comeback",
+   "de": "The Comeback"
+  },
+  "indizio": {
+   "it": "Nel terzo periodo gli ospiti conducono 35 a 3, dopo quattro touchdown su lancio nel primo tempo. I padroni di casa, con il quarterback di riserva Frank Reich al posto dell'infortunato titolare, segnano quattro touchdown su lancio, tre dei quali per Andre Reed, l'ultimo a 3 minuti dalla fine per il 38 a 35. Un field goal da 26 yard degli avversari porta la partita ai supplementari. Ai supplementari Steve Christie segna da 32 yard. È ancora la più grande rimonta nella storia dei playoff.",
+   "en": "In the third quarter the visitors lead 35 to 3, after four touchdown passes in the first half. The home side, with backup quarterback Frank Reich in place of the injured starter, score four touchdown passes, three of them to Andre Reed, the last with about 3 minutes left for 38 to 35. A 26-yard field goal by the opponents sends the game to overtime. In overtime Steve Christie kicks a 32-yard field goal. It is still the biggest comeback in playoff history.",
+   "de": "Im dritten Viertel führen die Gäste mit 35:3, nach vier Touchdown-Pässen in der ersten Halbzeit. Die Gastgeber, mit Ersatz-Quarterback Frank Reich anstelle des verletzten Stammspielers, erzielen vier Touchdown-Pässe, drei davon auf Andre Reed, den letzten etwa 3 Minuten vor Schluss zum 38:35. Ein 26-Yard-Field-Goal der Gegner schickt das Spiel in die Verlängerung. In der Verlängerung trifft Steve Christie aus 32 Yards. Es ist bis heute die größte Aufholjagd der Playoff-Geschichte."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/The_Comeback_(American_football)"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "snowbowl-2002",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2001,
+  "fase": "playoff",
+  "data": "2002-01-19",
+  "citta": "Foxborough",
+  "stadio": "Foxboro Stadium",
+  "squadre": [
+   {
+    "nome": "New England Patriots",
+    "punti": 16
+   },
+   {
+    "nome": "Oakland Raiders",
+    "punti": 13
+   }
+  ],
+  "titolo": {
+   "it": "Snow Bowl",
+   "en": "Snow Bowl",
+   "de": "Snow Bowl"
+  },
+  "indizio": {
+   "it": "In una partita con neve e 25 gradi Fahrenheit, a circa 1 minuto e 50 dalla fine Tom Brady viene colpito da Charles Woodson mentre lancia. L'arbitro prima segna un fumble, poi, dopo la revisione al video, un passaggio incompleto secondo la regola detta «tuck rule». Adam Vinatieri calcia da 45 yard il pareggio con 27 secondi da giocare, poi decide ai supplementari con un field goal da 23 yard. La regola fu abolita nel 2013.",
+   "en": "In a game with snow and 25 degrees Fahrenheit, with about 1 minute 50 seconds left Tom Brady is hit by Charles Woodson as he throws. The referee first rules a fumble, then, after video review, an incomplete pass under the «tuck» rule. Adam Vinatieri kicks the tying 45-yard field goal with 27 seconds to play, then wins it in overtime with a 23-yard field goal. The rule was abolished in 2013.",
+   "de": "In einem Spiel mit Schnee und 25 Grad Fahrenheit wird Tom Brady etwa 1 Minute 50 vor Schluss beim Wurf von Charles Woodson getroffen. Der Schiedsrichter wertet zuerst einen Fumble, dann nach Videoprüfung einen unvollständigen Pass nach der «Tuck»-Regel. Adam Vinatieri trifft aus 45 Yards zum Ausgleich bei noch 27 Sekunden und entscheidet das Spiel in der Verlängerung mit einem 23-Yard-Field-Goal. Die Regel wurde 2013 abgeschafft."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Snow_Bowl_(2002)"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "failmary-2012",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2012,
+  "fase": "stagione_regolare",
+  "data": "2012-09-24",
+  "citta": "Seattle",
+  "stadio": "CenturyLink Field",
+  "squadre": [
+   {
+    "nome": "Seattle Seahawks",
+    "punti": 14
+   },
+   {
+    "nome": "Green Bay Packers",
+    "punti": 12
+   }
+  ],
+  "titolo": {
+   "it": "Fail Mary",
+   "en": "Fail Mary",
+   "de": "Fail Mary"
+  },
+  "indizio": {
+   "it": "Gli arbitri sono sostituti, a causa di una disputa con la lega. All'ultima azione, sul quarto down da 10 yard, il quarterback esordiente Russell Wilson lancia nella end zone verso Golden Tate, e un difensore e il ricevitore hanno entrambi le mani sul pallone. Gli arbitri decidono per una ricezione simultanea, quindi touchdown, e la revisione conferma. Due giorni dopo la lega raggiunge l'accordo con gli arbitri ufficiali.",
+   "en": "The officials are replacements, because of a dispute with the league. On the last play, on fourth and 10, rookie quarterback Russell Wilson throws into the end zone toward Golden Tate, and a defender and the receiver both have their hands on the ball. The officials rule a simultaneous catch, hence a touchdown, and the review confirms it. Two days later the league reaches an agreement with the regular officials.",
+   "de": "Die Schiedsrichter sind Ersatzkräfte, wegen eines Streits mit der Liga. Im letzten Spielzug, bei Vierter und 10, wirft Rookie-Quarterback Russell Wilson in die Endzone auf Golden Tate, und ein Verteidiger und der Receiver haben beide die Hände am Ball. Die Schiedsrichter entscheiden auf einen gleichzeitigen Fang, also Touchdown, und die Überprüfung bestätigt es. Zwei Tage später einigt sich die Liga mit den regulären Schiedsrichtern."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Fail_Mary"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "milehigh-2013",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2012,
+  "fase": "playoff",
+  "data": "2013-01-12",
+  "citta": "Denver",
+  "stadio": "Sports Authority Field at Mile High",
+  "squadre": [
+   {
+    "nome": "Baltimore Ravens",
+    "punti": 38
+   },
+   {
+    "nome": "Denver Broncos",
+    "punti": 35
+   }
+  ],
+  "titolo": {
+   "it": "Mile High Miracle",
+   "en": "Mile High Miracle",
+   "de": "Mile High Miracle"
+  },
+  "indizio": {
+   "it": "Con 13 gradi Fahrenheit, i padroni di casa, favoriti, segnano anche su un ritorno di punt da 90 yard e su un ritorno di kickoff da 104 yard, entrambi record. A meno di un minuto dalla fine, sotto 35 a 28, Joe Flacco lancia a Jacoby Jones un touchdown di 70 yard che riporta la parità. La partita è decisa dopo il secondo overtime da un field goal da 47 yard di Justin Tucker, dopo un intercetto di Corey Graham.",
+   "en": "At 13 degrees Fahrenheit, the favored home team also scores on a 90-yard punt return and a 104-yard kickoff return, both records. With under a minute left, trailing 35 to 28, Joe Flacco throws a 70-yard touchdown to Jacoby Jones that ties the game. The game is decided in the second overtime by a 47-yard field goal by Justin Tucker, after an interception by Corey Graham.",
+   "de": "Bei 13 Grad Fahrenheit erzielen die favorisierten Gastgeber auch mit einem 90-Yard-Punt-Return und einem 104-Yard-Kickoff-Return Punkte, beides Rekorde. Weniger als eine Minute vor Schluss, beim Stand von 28:35, wirft Joe Flacco einen 70-Yard-Touchdown auf Jacoby Jones zum Ausgleich. Das Spiel wird in der zweiten Verlängerung durch ein 47-Yard-Field-Goal von Justin Tucker entschieden, nach einer Interception von Corey Graham."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Mile_High_Miracle"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "beastquake-2011",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2010,
+  "fase": "playoff",
+  "data": "2011-01-08",
+  "citta": "Seattle",
+  "stadio": "Qwest Field",
+  "squadre": [
+   {
+    "nome": "Seattle Seahawks",
+    "punti": 41
+   },
+   {
+    "nome": "New Orleans Saints",
+    "punti": 36
+   }
+  ],
+  "titolo": {
+   "it": "Beast Quake",
+   "en": "Beast Quake",
+   "de": "Beast Quake"
+  },
+  "indizio": {
+   "it": "I padroni di casa hanno chiuso la stagione regolare con più sconfitte che vittorie ma ospitano il turno di wild card come vincitori della propria division. Nel quarto periodo il running back Marshawn Lynch corre 67 yard fino al touchdown, rompendo nove placcaggi. Il rumore del pubblico fu registrato da una stazione sismica vicina come una scossa di magnitudo 2,0.",
+   "en": "The home team finished the regular season with more losses than wins but hosts the wild card round as its division winner. In the fourth quarter running back Marshawn Lynch runs 67 yards for a touchdown, breaking nine tackles. The crowd noise was recorded by a nearby seismic station as a magnitude 2.0 tremor.",
+   "de": "Die Gastgeber beendeten die Hauptrunde mit mehr Niederlagen als Siegen, richten die Wild-Card-Runde aber als Divisionssieger aus. Im vierten Viertel läuft Running Back Marshawn Lynch 67 Yards zum Touchdown und bricht dabei neun Tackles. Der Lärm des Publikums wurde von einer nahen Erdbebenstation als Beben der Stärke 2,0 aufgezeichnet."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Beast_Quake"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "minneapolis-2018",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2017,
+  "fase": "playoff",
+  "data": "2018-01-14",
+  "citta": "Minneapolis",
+  "stadio": "U.S. Bank Stadium",
+  "squadre": [
+   {
+    "nome": "Minnesota Vikings",
+    "punti": 29
+   },
+   {
+    "nome": "New Orleans Saints",
+    "punti": 24
+   }
+  ],
+  "titolo": {
+   "it": "Minneapolis Miracle",
+   "en": "Minneapolis Miracle",
+   "de": "Minneapolis Miracle"
+  },
+  "indizio": {
+   "it": "I padroni di casa conducono 17 a 0 all'intervallo, poi gli ospiti ribaltano e passano avanti 24 a 23. È la prima partita di playoff chiusa nei tempi regolamentari con un touchdown allo scadere: con 10 secondi da giocare, al terzo e 10, Case Keenum lancia 27 yard a Stefon Diggs, un difensore sbaglia il placcaggio, e Diggs corre per 61 yard totali fino al touchdown a tempo scaduto.",
+   "en": "The home team leads 17 to 0 at halftime, then the visitors turn it around and go ahead 24 to 23. It is the first playoff game to end in regulation with a touchdown as time expires: with 10 seconds to play, on third and 10, Case Keenum throws 27 yards to Stefon Diggs, a defender misses the tackle, and Diggs runs for 61 total yards to the touchdown as time expires.",
+   "de": "Die Gastgeber führen zur Halbzeit mit 17:0, dann drehen die Gäste das Spiel und gehen mit 24:23 in Führung. Es ist das erste Playoff-Spiel, das in der regulären Spielzeit mit einem Touchdown bei ablaufender Zeit endet: Bei noch 10 Sekunden, bei Dritter und 10, wirft Case Keenum 27 Yards auf Stefon Diggs, ein Verteidiger verfehlt den Tackle, und Diggs läuft insgesamt 61 Yards zum Touchdown bei ablaufender Zeit."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Minneapolis_Miracle"
+  ],
+  "verificata": true
  }
 ]
