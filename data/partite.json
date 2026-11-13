@@ -1013,5 +1013,670 @@
    "https://en.wikipedia.org/wiki/Super_Bowl_XX"
   ],
   "verificata": true
+ },
+ {
+  "id": "sb-21",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1986,
+  "fase": "superbowl",
+  "data": "1987-01-25",
+  "citta": "Pasadena",
+  "stadio": "Rose Bowl",
+  "squadre": [
+   {
+    "nome": "New York Giants",
+    "punti": 39
+   },
+   {
+    "nome": "Denver Broncos",
+    "punti": 20
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXI",
+   "en": "Super Bowl XXI",
+   "de": "Super Bowl XXI"
+  },
+  "indizio": {
+   "it": "All'intervallo gli sfidanti sono avanti 10 a 9, il margine più stretto di una finale, grazie anche a una safety di George Martin su John Elway. Nel secondo tempo i vincitori segnano 30 punti, record. Phil Simms completa 22 passaggi su 25 e firma il passer rating più alto di sempre in una finale, 150,9, ed è nominato MVP. A fine partita Harry Carson rovescia il secchio di Gatorade sull'allenatore Bill Parcells.",
+   "en": "At halftime the challengers lead 10 to 9, the narrowest margin in a final, helped by a safety by George Martin on John Elway. In the second half the winners score 30 points, a record. Phil Simms completes 22 of 25 passes with the highest passer rating ever in a final, 150.9, and is named MVP. At the end Harry Carson pours a bucket of Gatorade over coach Bill Parcells.",
+   "de": "Zur Halbzeit führen die Herausforderer mit 10 zu 9, die knappste Pausenführung eines Finales, auch dank einer Safety von George Martin gegen John Elway. In der zweiten Halbzeit erzielen die Sieger 30 Punkte, ein Rekord. Phil Simms komplettiert 22 von 25 Pässen mit dem höchsten Passer Rating aller Zeiten in einem Finale, 150,9, und wird zum MVP gewählt. Am Ende kippt Harry Carson einen Eimer Gatorade über Trainer Bill Parcells."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXI"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-22",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1987,
+  "fase": "superbowl",
+  "data": "1988-01-31",
+  "citta": "San Diego",
+  "stadio": "Jack Murphy Stadium",
+  "squadre": [
+   {
+    "nome": "Washington Redskins",
+    "punti": 42
+   },
+   {
+    "nome": "Denver Broncos",
+    "punti": 10
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXII",
+   "en": "Super Bowl XXII",
+   "de": "Super Bowl XXII"
+  },
+  "indizio": {
+   "it": "Gli sfidanti sono avanti 10 a 0 dopo il primo quarto, con un touchdown da 56 yard alla prima azione offensiva. Poi i vincitori segnano 35 punti nel secondo periodo, record, con quattro touchdown su lancio di Doug Williams, il primo quarterback afroamericano a vincere una finale, nominato MVP con 340 yard. Ricky Sanders prende un lancio da 80 yard e Timmy Smith corre per 204 yard, record.",
+   "en": "The challengers lead 10 to 0 after the first quarter, with a 56-yard touchdown on the first offensive play. Then the winners score 35 points in the second quarter, a record, with four touchdown passes from Doug Williams, the first African-American quarterback to win a final, named MVP with 340 yards. Ricky Sanders catches an 80-yard pass and Timmy Smith rushes for 204 yards, a record.",
+   "de": "Die Herausforderer führen nach dem ersten Viertel mit 10 zu 0, mit einem 56-Yard-Touchdown beim ersten Angriffsspielzug. Dann erzielen die Sieger im zweiten Viertel 35 Punkte, ein Rekord, mit vier Touchdown-Pässen von Doug Williams, dem ersten afroamerikanischen Quarterback, der ein Finale gewinnt, mit 340 Yards zum MVP gewählt. Ricky Sanders fängt einen 80-Yard-Pass und Timmy Smith läuft für 204 Yards, ein Rekord."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-23",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1988,
+  "fase": "superbowl",
+  "data": "1989-01-22",
+  "citta": "Miami",
+  "stadio": "Joe Robbie Stadium",
+  "squadre": [
+   {
+    "nome": "San Francisco 49ers",
+    "punti": 20
+   },
+   {
+    "nome": "Cincinnati Bengals",
+    "punti": 16
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXIII",
+   "en": "Super Bowl XXIII",
+   "de": "Super Bowl XXIII"
+  },
+  "indizio": {
+   "it": "All'intervallo è 3 a 3, il primo pareggio all'intervallo in una finale. Stanford Jennings riporta un kickoff di 93 yard in touchdown. Joe Montana guida un drive di 11 giocate e 92 yard e chiude con un lancio da 10 yard a John Taylor quando mancano 34 secondi. Jerry Rice, con 11 ricezioni e 215 yard, record, è nominato MVP.",
+   "en": "It is 3 to 3 at halftime, the first halftime tie in a final. Stanford Jennings returns a kickoff 93 yards for a touchdown. Joe Montana leads an 11-play, 92-yard drive and finishes with a 10-yard pass to John Taylor with 34 seconds left. Jerry Rice, with 11 catches and 215 yards, a record, is named MVP.",
+   "de": "Zur Halbzeit steht es 3 zu 3, das erste Unentschieden zur Pause in einem Finale. Stanford Jennings trägt einen Kickoff 93 Yards zum Touchdown zurück. Joe Montana führt einen Drive über 11 Spielzüge und 92 Yards an und vollendet mit einem 10-Yard-Pass auf John Taylor 34 Sekunden vor Schluss. Jerry Rice wird mit 11 Fängen und 215 Yards, einem Rekord, zum MVP gewählt."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXIII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-24",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1989,
+  "fase": "superbowl",
+  "data": "1990-01-28",
+  "citta": "New Orleans",
+  "stadio": "Louisiana Superdome",
+  "squadre": [
+   {
+    "nome": "San Francisco 49ers",
+    "punti": 55
+   },
+   {
+    "nome": "Denver Broncos",
+    "punti": 10
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXIV",
+   "en": "Super Bowl XXIV",
+   "de": "Super Bowl XXIV"
+  },
+  "indizio": {
+   "it": "Il punteggio più alto e la differenza maggiore di sempre in una finale: 55 punti e 45 di scarto. Joe Montana lancia cinque touchdown, record, e vince il suo terzo titolo di MVP. Jerry Rice segna tre volte su ricezione. George Seifert, al suo primo anno da capo allenatore, guida i vincitori.",
+   "en": "The highest score and the biggest margin ever in a final: 55 points and a 45-point gap. Joe Montana throws five touchdowns, a record, and wins his third MVP award. Jerry Rice scores three times on receptions. George Seifert, in his first year as head coach, leads the winners.",
+   "de": "Die höchste Punktzahl und der größte Abstand aller Zeiten in einem Finale: 55 Punkte und 45 Punkte Differenz. Joe Montana wirft fünf Touchdowns, ein Rekord, und gewinnt seine dritte MVP-Auszeichnung. Jerry Rice punktet dreimal per Fang. George Seifert führt die Sieger in seinem ersten Jahr als Cheftrainer."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXIV"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-26",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1991,
+  "fase": "superbowl",
+  "data": "1992-01-26",
+  "citta": "Minneapolis",
+  "stadio": "Hubert H. Humphrey Metrodome",
+  "squadre": [
+   {
+    "nome": "Washington Redskins",
+    "punti": 37
+   },
+   {
+    "nome": "Buffalo Bills",
+    "punti": 24
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXVI",
+   "en": "Super Bowl XXVI",
+   "de": "Super Bowl XXVI"
+  },
+  "indizio": {
+   "it": "Gli sconfitti restano a zero punti nel primo tempo e sono sotto 24 a 0 nel terzo periodo. Il replay annulla un presunto touchdown di Art Monk perché il piede era fuori dal campo. Jim Kelly lancia un record di 58 passaggi, con 4 intercetti. Mark Rypien è nominato MVP, e Joe Gibbs è il primo allenatore a vincere con tre quarterback titolari diversi.",
+   "en": "The losers stay scoreless in the first half and trail 24 to 0 in the third quarter. Replay overturns an apparent Art Monk touchdown because his foot was out of bounds. Jim Kelly throws a record 58 passes, with 4 interceptions. Mark Rypien is named MVP, and Joe Gibbs is the first coach to win with three different starting quarterbacks.",
+   "de": "Die Verlierer bleiben in der ersten Halbzeit ohne Punkte und liegen im dritten Viertel mit 0 zu 24 zurück. Der Videobeweis erkennt einen vermeintlichen Touchdown von Art Monk ab, weil sein Fuß im Aus war. Jim Kelly wirft mit 58 Pässen einen Rekord, bei 4 Interceptions. Mark Rypien wird zum MVP gewählt, und Joe Gibbs ist der erste Trainer, der mit drei verschiedenen Start-Quarterbacks gewinnt."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXVI"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-27",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1992,
+  "fase": "superbowl",
+  "data": "1993-01-31",
+  "citta": "Pasadena",
+  "stadio": "Rose Bowl",
+  "squadre": [
+   {
+    "nome": "Dallas Cowboys",
+    "punti": 52
+   },
+   {
+    "nome": "Buffalo Bills",
+    "punti": 17
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXVII",
+   "en": "Super Bowl XXVII",
+   "de": "Super Bowl XXVII"
+  },
+  "indizio": {
+   "it": "Gli sconfitti perdono il pallone nove volte, record, e gli avversari segnano 35 punti da questi errori. Michael Irvin segna due touchdown a 18 secondi di distanza. Leon Lett recupera un fumble e corre per 64 yard, ma Don Beebe lo raggiunge e gli toglie il pallone sulla linea di meta, facendolo uscire dal campo. Troy Aikman lancia quattro touchdown ed è nominato MVP.",
+   "en": "The losers lose the ball nine times, a record, and the opponents score 35 points from these mistakes. Michael Irvin scores two touchdowns 18 seconds apart. Leon Lett recovers a fumble and runs 64 yards, but Don Beebe catches him and strips the ball at the goal line, sending it out of bounds. Troy Aikman throws four touchdowns and is named MVP.",
+   "de": "Die Verlierer verlieren den Ball neun Mal, ein Rekord, und die Gegner erzielen daraus 35 Punkte. Michael Irvin erzielt zwei Touchdowns im Abstand von 18 Sekunden. Leon Lett erobert einen Fumble und läuft 64 Yards, doch Don Beebe holt ihn ein und schlägt ihm an der Torlinie den Ball aus der Hand, sodass er ins Aus rollt. Troy Aikman wirft vier Touchdowns und wird zum MVP gewählt."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXVII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-28",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1993,
+  "fase": "superbowl",
+  "data": "1994-01-30",
+  "citta": "Atlanta",
+  "stadio": "Georgia Dome",
+  "squadre": [
+   {
+    "nome": "Dallas Cowboys",
+    "punti": 30
+   },
+   {
+    "nome": "Buffalo Bills",
+    "punti": 13
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXVIII",
+   "en": "Super Bowl XXVIII",
+   "de": "Super Bowl XXVIII"
+  },
+  "indizio": {
+   "it": "Gli sconfitti sono avanti 13 a 6 all'intervallo, poi James Washington riporta in touchdown un fumble di 46 yard e pareggia a inizio ripresa. Emmitt Smith corre per 132 yard e due touchdown ed è nominato MVP. Steve Christie calcia un field goal da 54 yard, il più lungo di una finale fino ad allora. Per i perdenti è la quarta sconfitta di fila in una finale, un caso unico.",
+   "en": "The losers lead 13 to 6 at halftime, then James Washington returns a fumble 46 yards for a touchdown and ties the game early in the second half. Emmitt Smith rushes for 132 yards and two touchdowns and is named MVP. Steve Christie kicks a 54-yard field goal, the longest in a final up to then. For the losers it is a fourth straight defeat in a final, a unique case.",
+   "de": "Die Verlierer führen zur Halbzeit mit 13 zu 6, dann trägt James Washington einen Fumble 46 Yards zum Touchdown zurück und gleicht zu Beginn der zweiten Halbzeit aus. Emmitt Smith läuft für 132 Yards und zwei Touchdowns und wird zum MVP gewählt. Steve Christie verwandelt ein 54-Yard-Field-Goal, das bis dahin längste in einem Finale. Für die Verlierer ist es die vierte Final-Niederlage in Folge, ein einmaliger Fall."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXVIII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-29",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1994,
+  "fase": "superbowl",
+  "data": "1995-01-29",
+  "citta": "Miami",
+  "stadio": "Joe Robbie Stadium",
+  "squadre": [
+   {
+    "nome": "San Francisco 49ers",
+    "punti": 49
+   },
+   {
+    "nome": "San Diego Chargers",
+    "punti": 26
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXIX",
+   "en": "Super Bowl XXIX",
+   "de": "Super Bowl XXIX"
+  },
+  "indizio": {
+   "it": "Steve Young lancia sei touchdown, record per una finale, ed è nominato MVP. Jerry Rice ne prende tre. Andre Coleman riporta un kickoff di 98 yard in touchdown per gli sconfitti. Con 75 punti totali e dieci touchdown, sono record anche questi, e i vincitori sono la prima squadra a conquistare cinque titoli.",
+   "en": "Steve Young throws six touchdowns, a record for a final, and is named MVP. Jerry Rice catches three of them. Andre Coleman returns a kickoff 98 yards for a touchdown for the losers. With 75 combined points and ten touchdowns, these are records too, and the winners become the first team to win five titles.",
+   "de": "Steve Young wirft sechs Touchdowns, ein Rekord für ein Finale, und wird zum MVP gewählt. Jerry Rice fängt drei davon. Andre Coleman trägt für die Verlierer einen Kickoff 98 Yards zum Touchdown zurück. Mit 75 Punkten insgesamt und zehn Touchdowns sind auch diese Werte Rekorde, und die Sieger sind das erste Team mit fünf Titeln."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXIX"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-30",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1995,
+  "fase": "superbowl",
+  "data": "1996-01-28",
+  "citta": "Tempe",
+  "stadio": "Sun Devil Stadium",
+  "squadre": [
+   {
+    "nome": "Dallas Cowboys",
+    "punti": 27
+   },
+   {
+    "nome": "Pittsburgh Steelers",
+    "punti": 17
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXX",
+   "en": "Super Bowl XXX",
+   "de": "Super Bowl XXX"
+  },
+  "indizio": {
+   "it": "Larry Brown intercetta due lanci di Neil O'Donnell, da 44 e 33 yard, ed è il primo cornerback nominato MVP. Emmitt Smith segna due touchdown di corsa. I vincitori sono la prima squadra a conquistare tre titoli in quattro anni. Gli sconfitti, pur con più yard totali, perdono tre palloni su intercetto.",
+   "en": "Larry Brown intercepts two Neil O'Donnell passes, for 44 and 33 yards, and is the first cornerback named MVP. Emmitt Smith scores two rushing touchdowns. The winners are the first team to win three titles in four years. The losers, despite more total yards, lose the ball three times on interceptions.",
+   "de": "Larry Brown fängt zwei Pässe von Neil O'Donnell ab, über 44 und 33 Yards, und ist der erste Cornerback, der zum MVP gewählt wird. Emmitt Smith erzielt zwei Lauf-Touchdowns. Die Sieger sind das erste Team mit drei Titeln in vier Jahren. Die Verlierer, trotz mehr Gesamt-Yards, verlieren dreimal den Ball durch Interceptions."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXX"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-31",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1996,
+  "fase": "superbowl",
+  "data": "1997-01-26",
+  "citta": "New Orleans",
+  "stadio": "Louisiana Superdome",
+  "squadre": [
+   {
+    "nome": "Green Bay Packers",
+    "punti": 35
+   },
+   {
+    "nome": "New England Patriots",
+    "punti": 21
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXXI",
+   "en": "Super Bowl XXXI",
+   "de": "Super Bowl XXXI"
+  },
+  "indizio": {
+   "it": "Desmond Howard riporta un kickoff di 99 yard in touchdown e diventa il primo giocatore delle squadre speciali nominato MVP. Antonio Freeman segna da 81 yard su lancio di Brett Favre, record per un passaggio in una finale. Nel primo quarto si segnano 24 punti in totale, altro record. Il quarterback degli sconfitti, Drew Bledsoe, lancia quattro intercetti.",
+   "en": "Desmond Howard returns a kickoff 99 yards for a touchdown and becomes the first special teams player named MVP. Antonio Freeman scores from 81 yards on a pass from Brett Favre, a record for a pass play in a final. A combined 24 points are scored in the first quarter, another record. The losers' quarterback, Drew Bledsoe, throws four interceptions.",
+   "de": "Desmond Howard trägt einen Kickoff 99 Yards zum Touchdown zurück und wird als erster Special-Teams-Spieler zum MVP gewählt. Antonio Freeman punktet aus 81 Yards nach einem Pass von Brett Favre, ein Rekord für einen Passspielzug in einem Finale. Im ersten Viertel fallen insgesamt 24 Punkte, ein weiterer Rekord. Der Quarterback der Verlierer, Drew Bledsoe, wirft vier Interceptions."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXXI"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-32",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1997,
+  "fase": "superbowl",
+  "data": "1998-01-25",
+  "citta": "San Diego",
+  "stadio": "Qualcomm Stadium",
+  "squadre": [
+   {
+    "nome": "Denver Broncos",
+    "punti": 31
+   },
+   {
+    "nome": "Green Bay Packers",
+    "punti": 24
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXXII",
+   "en": "Super Bowl XXXII",
+   "de": "Super Bowl XXXII"
+  },
+  "indizio": {
+   "it": "I vincitori sono sfavoriti di 11 punti contro la squadra campione in carica, e conquistano il primo titolo dopo quattro finali perse. Terrell Davis segna tre touchdown di corsa, record, e corre per 157 yard nonostante un'emicrania che lo tiene fuori quasi tutto il secondo quarto. John Elway, in un'azione rimasta famosa come l'elicottero, gira su se stesso in aria dopo essere stato colpito da tre avversari.",
+   "en": "The winners are 11-point underdogs against the defending champions, and win their first title after four lost finals. Terrell Davis scores three rushing touchdowns, a record, and runs for 157 yards despite a migraine that keeps him out for most of the second quarter. John Elway, on a play remembered as the helicopter, spins in mid-air after being hit by three opponents.",
+   "de": "Die Sieger sind mit 11 Punkten Außenseiter gegen den Titelverteidiger und gewinnen nach vier verlorenen Finals ihren ersten Titel. Terrell Davis erzielt drei Lauf-Touchdowns, ein Rekord, und läuft für 157 Yards, obwohl ihn eine Migräne fast das ganze zweite Viertel lang außer Gefecht setzt. John Elway dreht sich bei einer als Helikopter berühmt gewordenen Aktion in der Luft, nachdem ihn drei Gegner getroffen haben."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXXII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-33",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1998,
+  "fase": "superbowl",
+  "data": "1999-01-31",
+  "citta": "Miami",
+  "stadio": "Pro Player Stadium",
+  "squadre": [
+   {
+    "nome": "Denver Broncos",
+    "punti": 34
+   },
+   {
+    "nome": "Atlanta Falcons",
+    "punti": 19
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXXIII",
+   "en": "Super Bowl XXXIII",
+   "de": "Super Bowl XXXIII"
+  },
+  "indizio": {
+   "it": "John Elway, a 38 anni il più anziano MVP di una finale, lancia per 336 yard e segna anche di corsa. Rod Smith prende un lancio da 80 yard in touchdown. Darrien Gordon riporta due intercetti per un totale di 108 yard, record. Tim Dwight segna per gli sconfitti con un ritorno di kickoff da 94 yard.",
+   "en": "John Elway, at 38 the oldest MVP of a final, throws for 336 yards and also scores on the ground. Rod Smith catches an 80-yard touchdown pass. Darrien Gordon returns interceptions for a total of 108 yards, a record. Tim Dwight scores for the losers on a 94-yard kickoff return.",
+   "de": "John Elway, mit 38 der älteste MVP eines Finales, wirft für 336 Yards und punktet auch per Lauf. Rod Smith fängt einen 80-Yard-Touchdown-Pass. Darrien Gordon trägt Interceptions über insgesamt 108 Yards zurück, ein Rekord. Tim Dwight punktet für die Verlierer mit einem 94-Yard-Kickoff-Return."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXXIII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-34",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1999,
+  "fase": "superbowl",
+  "data": "2000-01-30",
+  "citta": "Atlanta",
+  "stadio": "Georgia Dome",
+  "squadre": [
+   {
+    "nome": "St. Louis Rams",
+    "punti": 23
+   },
+   {
+    "nome": "Tennessee Titans",
+    "punti": 16
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXXIV",
+   "en": "Super Bowl XXXIV",
+   "de": "Super Bowl XXXIV"
+  },
+  "indizio": {
+   "it": "Gli sconfitti recuperano da 16 a 0 fino al pareggio 16 a 16, con un field goal di Al Del Greco a 2 minuti e 12 secondi dalla fine. Poi Isaac Bruce segna da 73 yard e riporta avanti l'altra squadra. Sull'ultima azione Mike Jones ferma Kevin Dyson a una yard dalla linea di meta. Kurt Warner, nominato MVP, lancia per 414 yard, record.",
+   "en": "The losers come back from 16 to 0 to tie it 16 to 16, with an Al Del Greco field goal with 2 minutes 12 seconds left. Then Isaac Bruce scores from 73 yards and puts the other team back in front. On the final play Mike Jones stops Kevin Dyson one yard short of the goal line. Kurt Warner, named MVP, throws for 414 yards, a record.",
+   "de": "Die Verlierer holen einen Rückstand von 0 zu 16 auf und gleichen mit einem Field Goal von Al Del Greco 2 Minuten und 12 Sekunden vor Schluss zum 16 zu 16 aus. Dann punktet Isaac Bruce aus 73 Yards und bringt das andere Team wieder in Führung. Beim letzten Spielzug stoppt Mike Jones Kevin Dyson eine Yard vor der Torlinie. Kurt Warner, zum MVP gewählt, wirft für 414 Yards, ein Rekord."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXXIV"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-35",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2000,
+  "fase": "superbowl",
+  "data": "2001-01-28",
+  "citta": "Tampa",
+  "stadio": "Raymond James Stadium",
+  "squadre": [
+   {
+    "nome": "Baltimore Ravens",
+    "punti": 34
+   },
+   {
+    "nome": "New York Giants",
+    "punti": 7
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXXV",
+   "en": "Super Bowl XXXV",
+   "de": "Super Bowl XXXV"
+  },
+  "indizio": {
+   "it": "Il linebacker Ray Lewis è nominato MVP in una partita dominata dalla difesa: gli sconfitti guadagnano solo 152 yard e il loro quarterback Kerry Collins lancia quattro intercetti. Nel terzo periodo si segnano tre touchdown in 36 secondi: un ritorno su intercetto da 49 yard di Duane Starks e due ritorni di kickoff di fila, da 97 e 84 yard, per la prima volta in una finale.",
+   "en": "Linebacker Ray Lewis is named MVP in a game dominated by the defense: the losers gain only 152 yards and their quarterback Kerry Collins throws four interceptions. In the third quarter three touchdowns come in 36 seconds: a 49-yard interception return by Duane Starks and two kickoff returns in a row, of 97 and 84 yards, a first in a final.",
+   "de": "Linebacker Ray Lewis wird in einem von der Defense dominierten Spiel zum MVP gewählt: Die Verlierer erzielen nur 152 Yards und ihr Quarterback Kerry Collins wirft vier Interceptions. Im dritten Viertel fallen drei Touchdowns in 36 Sekunden: eine 49-Yard-Interception von Duane Starks und zwei Kickoff-Returns hintereinander, über 97 und 84 Yards, erstmals in einem Finale."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXXV"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-36",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2001,
+  "fase": "superbowl",
+  "data": "2002-02-03",
+  "citta": "New Orleans",
+  "stadio": "Louisiana Superdome",
+  "squadre": [
+   {
+    "nome": "New England Patriots",
+    "punti": 20
+   },
+   {
+    "nome": "St. Louis Rams",
+    "punti": 17
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXXVI",
+   "en": "Super Bowl XXXVI",
+   "de": "Super Bowl XXXVI"
+  },
+  "indizio": {
+   "it": "I vincitori sono sfavoriti di 14 punti e vanno al riposo avanti 14 a 3 dopo un ritorno su intercetto da 47 yard di Ty Law. Gli avversari recuperano nel quarto periodo, con una corsa di Kurt Warner e un touchdown da 26 yard per Ricky Proehl, e pareggiano a 17 con 1 minuto e 30 secondi da giocare. Adam Vinatieri calcia il field goal da 48 yard allo scadere. Tom Brady è nominato MVP.",
+   "en": "The winners are 14-point underdogs and lead 14 to 3 at the break after a 47-yard interception return by Ty Law. The opponents come back in the fourth quarter, with a run by Kurt Warner and a 26-yard touchdown to Ricky Proehl, and tie it at 17 with 1 minute 30 seconds left. Adam Vinatieri kicks the 48-yard field goal as time expires. Tom Brady is named MVP.",
+   "de": "Die Sieger sind mit 14 Punkten Außenseiter und führen zur Pause mit 14 zu 3 nach einer 47-Yard-Interception von Ty Law. Die Gegner kommen im vierten Viertel mit einem Lauf von Kurt Warner und einem 26-Yard-Touchdown auf Ricky Proehl zurück und gleichen 1 Minute und 30 Sekunden vor Schluss zum 17 zu 17 aus. Adam Vinatieri verwandelt das 48-Yard-Field-Goal mit ablaufender Uhr. Tom Brady wird zum MVP gewählt."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXXVI"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-37",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2002,
+  "fase": "superbowl",
+  "data": "2003-01-26",
+  "citta": "San Diego",
+  "stadio": "Qualcomm Stadium",
+  "squadre": [
+   {
+    "nome": "Tampa Bay Buccaneers",
+    "punti": 48
+   },
+   {
+    "nome": "Oakland Raiders",
+    "punti": 21
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXXVII",
+   "en": "Super Bowl XXXVII",
+   "de": "Super Bowl XXXVII"
+  },
+  "indizio": {
+   "it": "Il quarterback degli sconfitti, Rich Gannon, lancia cinque intercetti, record, e tre vengono riportati in touchdown: due da Dwight Smith, l'ultimo a due secondi dalla fine, uno da Derrick Brooks. Dexter Jackson, con due intercetti, è nominato MVP. Jon Gruden, a 39 anni, è il più giovane allenatore a vincere una finale.",
+   "en": "The losers' quarterback, Rich Gannon, throws five interceptions, a record, and three are returned for touchdowns: two by Dwight Smith, the last with two seconds left, one by Derrick Brooks. Dexter Jackson, with two interceptions, is named MVP. Jon Gruden, at 39, is the youngest coach to win a final.",
+   "de": "Der Quarterback der Verlierer, Rich Gannon, wirft fünf Interceptions, ein Rekord, und drei werden zum Touchdown zurückgetragen: zwei von Dwight Smith, der letzte zwei Sekunden vor Schluss, einer von Derrick Brooks. Dexter Jackson wird mit zwei Interceptions zum MVP gewählt. Jon Gruden ist mit 39 Jahren der jüngste Trainer, der ein Finale gewinnt."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXXVII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-38",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2003,
+  "fase": "superbowl",
+  "data": "2004-02-01",
+  "citta": "Houston",
+  "stadio": "Reliant Stadium",
+  "squadre": [
+   {
+    "nome": "New England Patriots",
+    "punti": 32
+   },
+   {
+    "nome": "Carolina Panthers",
+    "punti": 29
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXXVIII",
+   "en": "Super Bowl XXXVIII",
+   "de": "Super Bowl XXXVIII"
+  },
+  "indizio": {
+   "it": "Per 26 minuti e 55 secondi nessuno segna, la pausa più lunga di una finale. Nel quarto periodo si segnano 37 punti, record: Muhsin Muhammad segna da 85 yard, la giocata più lunga dalla linea di scrimmage, e il linebacker Mike Vrabel prende un touchdown da 1 yard. Adam Vinatieri decide con un field goal da 41 yard a 4 secondi dalla fine. Tom Brady lancia per 354 yard ed è nominato MVP.",
+   "en": "For 26 minutes 55 seconds nobody scores, the longest drought in a final. In the fourth quarter 37 points are scored, a record: Muhsin Muhammad scores from 85 yards, the longest play from scrimmage, and linebacker Mike Vrabel catches a 1-yard touchdown. Adam Vinatieri decides it with a 41-yard field goal with 4 seconds left. Tom Brady throws for 354 yards and is named MVP.",
+   "de": "26 Minuten und 55 Sekunden lang punktet niemand, die längste Durststrecke in einem Finale. Im vierten Viertel fallen 37 Punkte, ein Rekord: Muhsin Muhammad punktet aus 85 Yards, dem längsten Spielzug von der Scrimmage-Linie, und Linebacker Mike Vrabel fängt einen 1-Yard-Touchdown. Adam Vinatieri entscheidet mit einem 41-Yard-Field-Goal vier Sekunden vor Schluss. Tom Brady wirft für 354 Yards und wird zum MVP gewählt."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXXVIII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-39",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2004,
+  "fase": "superbowl",
+  "data": "2005-02-06",
+  "citta": "Jacksonville",
+  "stadio": "Alltel Stadium",
+  "squadre": [
+   {
+    "nome": "New England Patriots",
+    "punti": 24
+   },
+   {
+    "nome": "Philadelphia Eagles",
+    "punti": 21
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XXXIX",
+   "en": "Super Bowl XXXIX",
+   "de": "Super Bowl XXXIX"
+  },
+  "indizio": {
+   "it": "I vincitori conquistano il terzo titolo in quattro anni. Deion Branch, con 11 ricezioni e 133 yard, pareggio di un record, è nominato MVP senza segnare. Gli sconfitti segnano nel finale e poi usano 3 minuti e 52 secondi per un drive da 79 yard, lasciando solo 1 minuto e 48 secondi. Rodney Harrison intercetta a nove secondi dalla fine.",
+   "en": "The winners win their third title in four years. Deion Branch, with 11 catches and 133 yards, tying a record, is named MVP without scoring. The losers score late and then use 3 minutes 52 seconds on a 79-yard drive, leaving only 1 minute 48 seconds. Rodney Harrison intercepts with nine seconds left.",
+   "de": "Die Sieger gewinnen ihren dritten Titel in vier Jahren. Deion Branch wird mit 11 Fängen und 133 Yards, Rekord eingestellt, zum MVP gewählt, ohne zu punkten. Die Verlierer punkten spät und brauchen dann 3 Minuten und 52 Sekunden für einen 79-Yard-Drive, sodass nur 1 Minute und 48 Sekunden bleiben. Rodney Harrison fängt neun Sekunden vor Schluss ab."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XXXIX"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-40",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 2005,
+  "fase": "superbowl",
+  "data": "2006-02-05",
+  "citta": "Detroit",
+  "stadio": "Ford Field",
+  "squadre": [
+   {
+    "nome": "Pittsburgh Steelers",
+    "punti": 21
+   },
+   {
+    "nome": "Seattle Seahawks",
+    "punti": 10
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XL",
+   "en": "Super Bowl XL",
+   "de": "Super Bowl XL"
+  },
+  "indizio": {
+   "it": "Willie Parker corre per 75 yard in touchdown, la corsa più lunga di una finale. Antwaan Randle El, ricevitore, lancia il touchdown da 43 yard a Hines Ward, nominato MVP: è il primo touchdown su lancio di un ricevitore in una finale. Kelly Herndon riporta un intercetto di 76 yard, record, ma senza segnare. Ben Roethlisberger chiude con il rating più basso mai registrato da un quarterback vincitore, 22,6. Diverse decisioni arbitrali fanno discutere.",
+   "en": "Willie Parker runs 75 yards for a touchdown, the longest run in a final. Receiver Antwaan Randle El throws the 43-yard touchdown to Hines Ward, who is named MVP: it is the first touchdown pass by a receiver in a final. Kelly Herndon returns an interception 76 yards, a record, but does not score. Ben Roethlisberger finishes with the lowest rating ever recorded by a winning quarterback, 22.6. Several officiating calls cause debate.",
+   "de": "Willie Parker läuft 75 Yards zum Touchdown, der längste Lauf in einem Finale. Receiver Antwaan Randle El wirft den 43-Yard-Touchdown auf Hines Ward, der zum MVP gewählt wird: der erste Touchdown-Pass eines Receivers in einem Finale. Kelly Herndon trägt eine Interception 76 Yards zurück, ein Rekord, ohne zu punkten. Ben Roethlisberger beendet das Spiel mit dem niedrigsten Rating, das je ein siegreicher Quarterback hatte, 22,6. Mehrere Schiedsrichterentscheidungen sorgen für Diskussionen."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XL"
+  ],
+  "verificata": true
  }
 ]
