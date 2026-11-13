@@ -348,5 +348,670 @@
    "https://en.wikipedia.org/wiki/Super_Bowl_XLIX"
   ],
   "verificata": true
+ },
+ {
+  "id": "sb-01",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1966,
+  "fase": "superbowl",
+  "data": "1967-01-15",
+  "citta": "Los Angeles",
+  "stadio": "Los Angeles Memorial Coliseum",
+  "squadre": [
+   {
+    "nome": "Green Bay Packers",
+    "punti": 35
+   },
+   {
+    "nome": "Kansas City Chiefs",
+    "punti": 10
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl I",
+   "en": "Super Bowl I",
+   "de": "Super Bowl I"
+  },
+  "indizio": {
+   "it": "Il ricevitore Max McGee, entrato al posto del compagno infortunato Boyd Dowler, segna due touchdown, il primo da 37 yard. Willie Wood intercetta un lancio di Len Dawson e lo riporta di 50 yard fino alla linea delle 5. Jim Taylor segna il primo touchdown di corsa di questa storia, e il quarterback Bart Starr è nominato MVP con 250 yard lanciate.",
+   "en": "Receiver Max McGee, who came in for the injured Boyd Dowler, scores two touchdowns, the first from 37 yards. Willie Wood intercepts a Len Dawson pass and returns it 50 yards to the 5-yard line. Jim Taylor scores the first rushing touchdown in the history of the game, and quarterback Bart Starr is named MVP with 250 passing yards.",
+   "de": "Receiver Max McGee, der für den verletzten Boyd Dowler eingesprungen ist, erzielt zwei Touchdowns, den ersten aus 37 Yards. Willie Wood fängt einen Pass von Len Dawson ab und trägt ihn 50 Yards bis zur 5-Yard-Linie zurück. Jim Taylor erzielt den ersten Lauf-Touchdown in der Geschichte dieses Spiels, und Quarterback Bart Starr wird mit 250 Passing-Yards zum MVP gewählt."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_I"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-02",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1967,
+  "fase": "superbowl",
+  "data": "1968-01-14",
+  "citta": "Miami",
+  "stadio": "Orange Bowl",
+  "squadre": [
+   {
+    "nome": "Green Bay Packers",
+    "punti": 33
+   },
+   {
+    "nome": "Oakland Raiders",
+    "punti": 14
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl II",
+   "en": "Super Bowl II",
+   "de": "Super Bowl II"
+  },
+  "indizio": {
+   "it": "È l'ultima partita da allenatore di Vince Lombardi. Il kicker Don Chandler mette a segno quattro field goal, Boyd Dowler segna da 62 yard e Herb Adderley riporta un intercetto di 60 yard in touchdown nel quarto periodo. Bart Starr è nominato MVP.",
+   "en": "It is Vince Lombardi's last game as a head coach. Kicker Don Chandler makes four field goals, Boyd Dowler scores from 62 yards and Herb Adderley returns an interception 60 yards for a touchdown in the fourth quarter. Bart Starr is named MVP.",
+   "de": "Es ist das letzte Spiel von Vince Lombardi als Cheftrainer. Kicker Don Chandler verwandelt vier Field Goals, Boyd Dowler punktet aus 62 Yards und Herb Adderley trägt im vierten Viertel eine Interception über 60 Yards zum Touchdown zurück. Bart Starr wird zum MVP gewählt."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_II"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-04",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1969,
+  "fase": "superbowl",
+  "data": "1970-01-11",
+  "citta": "New Orleans",
+  "stadio": "Tulane Stadium",
+  "squadre": [
+   {
+    "nome": "Kansas City Chiefs",
+    "punti": 23
+   },
+   {
+    "nome": "Minnesota Vikings",
+    "punti": 7
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl IV",
+   "en": "Super Bowl IV",
+   "de": "Super Bowl IV"
+  },
+  "indizio": {
+   "it": "Jan Stenerud segna un field goal da 48 yard, record che resiste per 24 anni, e la squadra dell'AFL è avanti 16 a 0 all'intervallo. Otis Taylor chiude la partita con un touchdown da 46 yard su lancio di Len Dawson, nominato MVP. L'allenatore Hank Stram è il primo a indossare un microfono nascosto in una finale.",
+   "en": "Jan Stenerud kicks a 48-yard field goal, a record that stands for 24 years, and the AFL team leads 16 to 0 at halftime. Otis Taylor seals the game with a 46-yard touchdown from Len Dawson, who is named MVP. Coach Hank Stram becomes the first to wear a hidden microphone in a final.",
+   "de": "Jan Stenerud verwandelt ein 48-Yard-Field-Goal, ein Rekord, der 24 Jahre hält, und das AFL-Team führt zur Halbzeit mit 16 zu 0. Otis Taylor entscheidet das Spiel mit einem 46-Yard-Touchdown von Len Dawson, der zum MVP gewählt wird. Trainer Hank Stram trägt als Erster in einem Finale ein verstecktes Mikrofon."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_IV"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-05",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1970,
+  "fase": "superbowl",
+  "data": "1971-01-17",
+  "citta": "Miami",
+  "stadio": "Orange Bowl",
+  "squadre": [
+   {
+    "nome": "Baltimore Colts",
+    "punti": 16
+   },
+   {
+    "nome": "Dallas Cowboys",
+    "punti": 13
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl V",
+   "en": "Super Bowl V",
+   "de": "Super Bowl V"
+  },
+  "indizio": {
+   "it": "Il premio di MVP va a Chuck Howley, un giocatore della squadra sconfitta, con due intercetti. John Mackey segna da 75 yard su lancio di Johnny Unitas, che esce per un colpo alle costole e viene sostituito da Earl Morrall. Il field goal da 32 yard di Jim O'Brien arriva negli ultimissimi secondi, e Jerry Logan intercetta l'ultimo lancio avversario. Il totale dei palloni persi, 11, è un record.",
+   "en": "The MVP award goes to Chuck Howley, a player from the losing team, who makes two interceptions. John Mackey scores from 75 yards on a pass from Johnny Unitas, who leaves with a rib injury and is replaced by Earl Morrall. Jim O'Brien's 32-yard field goal comes in the final seconds, and Jerry Logan intercepts the last opposing pass. The 11 combined turnovers are a record.",
+   "de": "Der MVP-Preis geht an Chuck Howley, einen Spieler des unterlegenen Teams, mit zwei Interceptions. John Mackey punktet aus 75 Yards nach einem Pass von Johnny Unitas, der mit einer Rippenverletzung ausscheidet und durch Earl Morrall ersetzt wird. Jim O'Briens 32-Yard-Field-Goal fällt in den letzten Sekunden, und Jerry Logan fängt den letzten gegnerischen Pass ab. Die 11 Ballverluste insgesamt sind ein Rekord."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_V"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-06",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1971,
+  "fase": "superbowl",
+  "data": "1972-01-16",
+  "citta": "New Orleans",
+  "stadio": "Tulane Stadium",
+  "squadre": [
+   {
+    "nome": "Dallas Cowboys",
+    "punti": 24
+   },
+   {
+    "nome": "Miami Dolphins",
+    "punti": 3
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl VI",
+   "en": "Super Bowl VI",
+   "de": "Super Bowl VI"
+  },
+  "indizio": {
+   "it": "Bob Lilly butta a terra il quarterback avversario con una perdita di 29 yard, record per la giocata più lunga all'indietro. Roger Staubach lancia due touchdown, per Lance Alworth e Mike Ditka, ed è nominato MVP. Gli sconfitti segnano solo 3 punti, il minimo in una finale, mentre i vincitori corrono per 252 yard, un record.",
+   "en": "Bob Lilly sacks the opposing quarterback for a 29-yard loss, a record for the longest loss on a single play. Roger Staubach throws two touchdowns, to Lance Alworth and Mike Ditka, and is named MVP. The losers score only 3 points, the lowest in a final, while the winners rush for 252 yards, a record.",
+   "de": "Bob Lilly wirft den gegnerischen Quarterback für einen Verlust von 29 Yards um, ein Rekord für den längsten Raumverlust bei einem Spielzug. Roger Staubach wirft zwei Touchdowns, auf Lance Alworth und Mike Ditka, und wird zum MVP gewählt. Die Verlierer erzielen nur 3 Punkte, den niedrigsten Wert in einem Finale, während die Sieger 252 Yards erlaufen, ein Rekord."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_VI"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-07",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1972,
+  "fase": "superbowl",
+  "data": "1973-01-14",
+  "citta": "Los Angeles",
+  "stadio": "Los Angeles Memorial Coliseum",
+  "squadre": [
+   {
+    "nome": "Miami Dolphins",
+    "punti": 14
+   },
+   {
+    "nome": "Washington Redskins",
+    "punti": 7
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl VII",
+   "en": "Super Bowl VII",
+   "de": "Super Bowl VII"
+  },
+  "indizio": {
+   "it": "La squadra vincitrice chiude con un bilancio di 17 vittorie e nessuna sconfitta, la prima stagione perfetta dell'era moderna. Il kicker Garo Yepremian, dopo un field goal da 42 yard bloccato, raccoglie il pallone e lo butta in aria: Mike Bass lo prende e corre per 49 yard in touchdown. Jake Scott, con due intercetti, è nominato MVP.",
+   "en": "The winning team finishes with 17 wins and no losses, the first perfect season of the modern era. After a blocked 42-yard field goal attempt, kicker Garo Yepremian picks up the ball and bats it into the air: Mike Bass catches it and runs 49 yards for a touchdown. Jake Scott, with two interceptions, is named MVP.",
+   "de": "Das Siegerteam beendet die Saison mit 17 Siegen und ohne Niederlage, der ersten perfekten Saison der modernen Ära. Nach einem geblockten 42-Yard-Field-Goal nimmt Kicker Garo Yepremian den Ball auf und schlägt ihn in die Luft: Mike Bass fängt ihn und läuft 49 Yards zum Touchdown. Jake Scott wird mit zwei Interceptions zum MVP gewählt."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_VII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-08",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1973,
+  "fase": "superbowl",
+  "data": "1974-01-13",
+  "citta": "Houston",
+  "stadio": "Rice Stadium",
+  "squadre": [
+   {
+    "nome": "Miami Dolphins",
+    "punti": 24
+   },
+   {
+    "nome": "Minnesota Vikings",
+    "punti": 7
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl VIII",
+   "en": "Super Bowl VIII",
+   "de": "Super Bowl VIII"
+  },
+  "indizio": {
+   "it": "La squadra vincitrice segna un touchdown nei suoi primi due possessi, entrambi con drive da 10 giocate. Larry Csonka corre 33 volte per 145 yard e due touchdown, record per corse e yard, ed è il primo running back nominato MVP. Fran Tarkenton segna con una corsa da 4 yard, il primo touchdown di corsa di un quarterback in una finale.",
+   "en": "The winning team scores a touchdown on each of its first two possessions, both 10-play drives. Larry Csonka rushes 33 times for 145 yards and two touchdowns, records for carries and yards, and is the first running back named MVP. Fran Tarkenton scores on a 4-yard run, the first rushing touchdown by a quarterback in a final.",
+   "de": "Das Siegerteam erzielt bei seinen ersten beiden Ballbesitzen jeweils einen Touchdown, beide Male mit 10 Spielzügen. Larry Csonka läuft 33 Mal für 145 Yards und zwei Touchdowns, Rekorde für Läufe und Yards, und ist der erste Running Back, der zum MVP gewählt wird. Fran Tarkenton punktet mit einem 4-Yard-Lauf, dem ersten Lauf-Touchdown eines Quarterbacks in einem Finale."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_VIII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-09",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1974,
+  "fase": "superbowl",
+  "data": "1975-01-12",
+  "citta": "New Orleans",
+  "stadio": "Tulane Stadium",
+  "squadre": [
+   {
+    "nome": "Pittsburgh Steelers",
+    "punti": 16
+   },
+   {
+    "nome": "Minnesota Vikings",
+    "punti": 6
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl IX",
+   "en": "Super Bowl IX",
+   "de": "Super Bowl IX"
+  },
+  "indizio": {
+   "it": "Dwight White mette a terra in end zone il quarterback Fran Tarkenton: è la prima safety nella storia di una finale. Franco Harris corre 34 volte per 158 yard, record di allora, e segna un touchdown da 9 yard. L'unico punto dei perdenti nasce da un punt bloccato e recuperato in end zone da Terry Brown. Il tocco finale è un touchdown da 4 yard di Larry Brown su lancio di Terry Bradshaw.",
+   "en": "Dwight White downs quarterback Fran Tarkenton in the end zone: it is the first safety in the history of a final. Franco Harris rushes 34 times for 158 yards, a record at the time, and scores a 9-yard touchdown. The losers' only touchdown comes from a blocked punt recovered in the end zone by Terry Brown. The final touch is a 4-yard touchdown by Larry Brown from Terry Bradshaw.",
+   "de": "Dwight White bringt Quarterback Fran Tarkenton in der Endzone zu Fall: Es ist die erste Safety in der Geschichte eines Finales. Franco Harris läuft 34 Mal für 158 Yards, ein damaliger Rekord, und erzielt einen 9-Yard-Touchdown. Der einzige Touchdown der Verlierer entsteht aus einem geblockten Punt, den Terry Brown in der Endzone erobert. Den Schlusspunkt setzt ein 4-Yard-Touchdown von Larry Brown nach einem Pass von Terry Bradshaw."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_IX"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-10",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1975,
+  "fase": "superbowl",
+  "data": "1976-01-18",
+  "citta": "Miami",
+  "stadio": "Orange Bowl",
+  "squadre": [
+   {
+    "nome": "Pittsburgh Steelers",
+    "punti": 21
+   },
+   {
+    "nome": "Dallas Cowboys",
+    "punti": 17
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl X",
+   "en": "Super Bowl X",
+   "de": "Super Bowl X"
+  },
+  "indizio": {
+   "it": "Lynn Swann, nominato MVP con 161 yard in 4 ricezioni, segna il touchdown decisivo da 64 yard. Reggie Harrison blocca un punt che esce dalla end zone per una safety. Dall'altra parte Percy Howard segna da 34 yard su lancio di Roger Staubach, e un ultimo lancio disperato viene intercettato da Glen Edwards negli ultimi secondi.",
+   "en": "Lynn Swann, named MVP with 161 yards on 4 catches, scores the decisive 64-yard touchdown. Reggie Harrison blocks a punt that goes out of the end zone for a safety. At the other end Percy Howard scores from 34 yards on a pass from Roger Staubach, and a last desperate throw is intercepted by Glen Edwards in the final seconds.",
+   "de": "Lynn Swann, mit 161 Yards bei 4 Fängen zum MVP gewählt, erzielt den entscheidenden 64-Yard-Touchdown. Reggie Harrison blockt einen Punt, der durch die Endzone rollt, für eine Safety. Auf der anderen Seite punktet Percy Howard aus 34 Yards nach einem Pass von Roger Staubach, und ein letzter verzweifelter Wurf wird in den Schlusssekunden von Glen Edwards abgefangen."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_X"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-11",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1976,
+  "fase": "superbowl",
+  "data": "1977-01-09",
+  "citta": "Pasadena",
+  "stadio": "Rose Bowl",
+  "squadre": [
+   {
+    "nome": "Oakland Raiders",
+    "punti": 32
+   },
+   {
+    "nome": "Minnesota Vikings",
+    "punti": 14
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XI",
+   "en": "Super Bowl XI",
+   "de": "Super Bowl XI"
+  },
+  "indizio": {
+   "it": "Il ricevitore Fred Biletnikoff è nominato MVP. Willie Brown riporta in touchdown un intercetto da 75 yard, record di yard su intercetto in una finale. La squadra vincitrice guadagna 429 yard totali, un record. Dave Casper segna da 1 yard su lancio di Ken Stabler, e Pete Banaszak segna due touchdown di corsa.",
+   "en": "Receiver Fred Biletnikoff is named MVP. Willie Brown returns a 75-yard interception for a touchdown, a record for interception yards in a final. The winning team gains 429 total yards, a record. Dave Casper scores from 1 yard on a pass from Ken Stabler, and Pete Banaszak scores two rushing touchdowns.",
+   "de": "Receiver Fred Biletnikoff wird zum MVP gewählt. Willie Brown trägt eine Interception über 75 Yards zum Touchdown zurück, ein Rekord für Interception-Yards in einem Finale. Das Siegerteam erreicht 429 Yards insgesamt, ein Rekord. Dave Casper punktet aus 1 Yard nach einem Pass von Ken Stabler, und Pete Banaszak erzielt zwei Lauf-Touchdowns."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XI"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-12",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1977,
+  "fase": "superbowl",
+  "data": "1978-01-15",
+  "citta": "New Orleans",
+  "stadio": "Louisiana Superdome",
+  "squadre": [
+   {
+    "nome": "Dallas Cowboys",
+    "punti": 27
+   },
+   {
+    "nome": "Denver Broncos",
+    "punti": 10
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XII",
+   "en": "Super Bowl XII",
+   "de": "Super Bowl XII"
+  },
+  "indizio": {
+   "it": "Per la prima volta ci sono due MVP, e sono due difensori di linea: Randy White e Harvey Martin. Gli sconfitti perdono il pallone 8 volte, record per una squadra, e il loro quarterback Craig Morton lancia quattro intercetti nel solo primo tempo. Robert Newhouse è il primo running back a segnare un touchdown su lancio in una finale, per Golden Richards, da 29 yard.",
+   "en": "For the first time there are two MVPs, and both are defensive linemen: Randy White and Harvey Martin. The losers turn the ball over 8 times, a record for one team, and their quarterback Craig Morton throws four interceptions in the first half alone. Robert Newhouse becomes the first running back to throw a touchdown pass in a final, a 29-yarder to Golden Richards.",
+   "de": "Zum ersten Mal gibt es zwei MVPs, und beide sind Defensive Linemen: Randy White und Harvey Martin. Die Verlierer verlieren den Ball 8 Mal, ein Rekord für ein Team, und ihr Quarterback Craig Morton wirft allein in der ersten Halbzeit vier Interceptions. Robert Newhouse ist der erste Running Back, der in einem Finale einen Touchdown-Pass wirft, einen 29-Yard-Pass auf Golden Richards."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-13",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1978,
+  "fase": "superbowl",
+  "data": "1979-01-21",
+  "citta": "Miami",
+  "stadio": "Orange Bowl",
+  "squadre": [
+   {
+    "nome": "Pittsburgh Steelers",
+    "punti": 35
+   },
+   {
+    "nome": "Dallas Cowboys",
+    "punti": 31
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XIII",
+   "en": "Super Bowl XIII",
+   "de": "Super Bowl XIII"
+  },
+  "indizio": {
+   "it": "Terry Bradshaw lancia quattro touchdown e 318 yard, ed è nominato MVP. John Stallworth segna da 75 yard, Mike Hegman riporta un fumble di 37 yard in touchdown. Jackie Smith lascia cadere un passaggio in end zone, completamente libero, e la squadra si accontenta di un field goal. Nel finale gli sfidanti segnano due touchdown in meno di tre minuti e riaprono la partita fino al 35 a 31.",
+   "en": "Terry Bradshaw throws four touchdowns and 318 yards, and is named MVP. John Stallworth scores from 75 yards, Mike Hegman returns a fumble 37 yards for a touchdown. Jackie Smith drops a pass in the end zone, completely open, and the team settles for a field goal. In the closing minutes the challengers score two touchdowns in under three minutes and reopen the game up to 35 to 31.",
+   "de": "Terry Bradshaw wirft vier Touchdowns und 318 Yards und wird zum MVP gewählt. John Stallworth punktet aus 75 Yards, Mike Hegman trägt einen Fumble 37 Yards zum Touchdown zurück. Jackie Smith lässt in der Endzone einen Pass fallen, völlig frei, und das Team muss sich mit einem Field Goal begnügen. Am Ende erzielen die Herausforderer in weniger als drei Minuten zwei Touchdowns und machen das Spiel bis zum 31 zu 35 wieder offen."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XIII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-14",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1979,
+  "fase": "superbowl",
+  "data": "1980-01-20",
+  "citta": "Pasadena",
+  "stadio": "Rose Bowl",
+  "squadre": [
+   {
+    "nome": "Pittsburgh Steelers",
+    "punti": 31
+   },
+   {
+    "nome": "Los Angeles Rams",
+    "punti": 19
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XIV",
+   "en": "Super Bowl XIV",
+   "de": "Super Bowl XIV"
+  },
+  "indizio": {
+   "it": "Il comando cambia sette volte, un record. Lynn Swann prende un lancio da 47 yard, John Stallworth segna da 73 yard e Terry Bradshaw, MVP con 309 yard, firma la sua seconda finale consecutiva da protagonista. Jack Lambert intercetta Vince Ferragamo a circa cinque minuti dalla fine e chiude la strada agli avversari. Franco Harris segna il suo terzo touchdown di corsa in finali, record.",
+   "en": "The lead changes hands seven times, a record. Lynn Swann catches a 47-yard pass, John Stallworth scores from 73 yards and Terry Bradshaw, MVP with 309 yards, stars again. Jack Lambert intercepts Vince Ferragamo with about five minutes left and closes the door on the opponents. Franco Harris scores his third rushing touchdown in finals, a record.",
+   "de": "Die Führung wechselt sieben Mal, ein Rekord. Lynn Swann fängt einen 47-Yard-Pass, John Stallworth punktet aus 73 Yards und Terry Bradshaw, mit 309 Yards zum MVP gewählt, glänzt erneut. Jack Lambert fängt rund fünf Minuten vor Schluss einen Pass von Vince Ferragamo ab und nimmt den Gegnern jede Chance. Franco Harris erzielt seinen dritten Lauf-Touchdown in Finalspielen, ein Rekord."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XIV"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-15",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1980,
+  "fase": "superbowl",
+  "data": "1981-01-25",
+  "citta": "New Orleans",
+  "stadio": "Louisiana Superdome",
+  "squadre": [
+   {
+    "nome": "Oakland Raiders",
+    "punti": 27
+   },
+   {
+    "nome": "Philadelphia Eagles",
+    "punti": 10
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XV",
+   "en": "Super Bowl XV",
+   "de": "Super Bowl XV"
+  },
+  "indizio": {
+   "it": "È la prima squadra entrata nei playoff come wild card a vincere una finale. Jim Plunkett, MVP, lancia tre touchdown, tra cui un'azione da 80 yard di Kenny King, la più lunga della storia di queste finali. Rod Martin intercetta tre volte Ron Jaworski, record. Ted Hendricks blocca un field goal poco prima dell'intervallo.",
+   "en": "It is the first team to enter the playoffs as a wild card and win a final. Jim Plunkett, MVP, throws three touchdowns, including an 80-yard play to Kenny King, the longest in the history of these finals. Rod Martin intercepts Ron Jaworski three times, a record. Ted Hendricks blocks a field goal just before halftime.",
+   "de": "Es ist das erste Team, das als Wildcard in die Playoffs eingezogen ist und ein Finale gewinnt. Jim Plunkett, der MVP, wirft drei Touchdowns, darunter eine 80-Yard-Aktion auf Kenny King, die längste in der Geschichte dieser Finalspiele. Rod Martin fängt Ron Jaworski dreimal ab, ein Rekord. Ted Hendricks blockt kurz vor der Pause ein Field Goal."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XV"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-16",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1981,
+  "fase": "superbowl",
+  "data": "1982-01-24",
+  "citta": "Pontiac",
+  "stadio": "Pontiac Silverdome",
+  "squadre": [
+   {
+    "nome": "San Francisco 49ers",
+    "punti": 26
+   },
+   {
+    "nome": "Cincinnati Bengals",
+    "punti": 21
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XVI",
+   "en": "Super Bowl XVI",
+   "de": "Super Bowl XVI"
+  },
+  "indizio": {
+   "it": "Gli sconfitti guadagnano più yard ma perdono il pallone quattro volte contro una, e il vantaggio all'intervallo è di 20 a 0, il maggiore di una finale fino ad allora. Ray Wersching calcia quattro field goal, record pareggiato. Il difensore Dan Bunz ferma Charles Alexander sulla linea di meta in una giocata decisiva. Joe Montana è nominato MVP.",
+   "en": "The losers gain more yards but turn the ball over four times to one, and the halftime lead is 20 to 0, the largest in a final up to then. Ray Wersching kicks four field goals, tying a record. Defender Dan Bunz stops Charles Alexander short of the end zone on a decisive play. Joe Montana is named MVP.",
+   "de": "Die Verlierer gewinnen mehr Yards, verlieren den Ball aber viermal gegen einmal, und die Halbzeitführung von 20 zu 0 ist die bis dahin größte in einem Finale. Ray Wersching verwandelt vier Field Goals, Rekord eingestellt. Verteidiger Dan Bunz stoppt Charles Alexander kurz vor der Endzone bei einem entscheidenden Spielzug. Joe Montana wird zum MVP gewählt."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XVI"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-17",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1982,
+  "fase": "superbowl",
+  "data": "1983-01-30",
+  "citta": "Pasadena",
+  "stadio": "Rose Bowl",
+  "squadre": [
+   {
+    "nome": "Washington Redskins",
+    "punti": 27
+   },
+   {
+    "nome": "Miami Dolphins",
+    "punti": 17
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XVII",
+   "en": "Super Bowl XVII",
+   "de": "Super Bowl XVII"
+  },
+  "indizio": {
+   "it": "John Riggins corre 38 volte per 166 yard, due record, ed è nominato MVP. Sul quarto down con una sola yard da fare, la sua corsa da 43 yard in touchdown dà ai vincitori il primo vantaggio. Fulton Walker segna su un ritorno di kickoff da 98 yard, il primo touchdown di questo tipo in una finale. Jimmy Cefalo apre con un touchdown da 76 yard.",
+   "en": "John Riggins rushes 38 times for 166 yards, two records, and is named MVP. On fourth-and-1, his 43-yard touchdown run gives the winners their first lead. Fulton Walker scores on a 98-yard kickoff return, the first touchdown of its kind in a final. Jimmy Cefalo opens the scoring with a 76-yard touchdown.",
+   "de": "John Riggins läuft 38 Mal für 166 Yards, zwei Rekorde, und wird zum MVP gewählt. Beim vierten Versuch mit nur einer Yard zu gehen bringt sein 43-Yard-Touchdown-Lauf den Siegern die erste Führung. Fulton Walker punktet mit einem 98-Yard-Kickoff-Return, dem ersten Touchdown dieser Art in einem Finale. Jimmy Cefalo eröffnet mit einem 76-Yard-Touchdown."
+  },
+  "illustrazione": "palla",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XVII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-18",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1983,
+  "fase": "superbowl",
+  "data": "1984-01-22",
+  "citta": "Tampa",
+  "stadio": "Tampa Stadium",
+  "squadre": [
+   {
+    "nome": "Los Angeles Raiders",
+    "punti": 38
+   },
+   {
+    "nome": "Washington Redskins",
+    "punti": 9
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XVIII",
+   "en": "Super Bowl XVIII",
+   "de": "Super Bowl XVIII"
+  },
+  "indizio": {
+   "it": "Marcus Allen corre per 191 yard e due touchdown, tra cui un'azione da 74 yard, record, ed è nominato MVP. Jack Squirek intercetta un passaggio corto a sette secondi dall'intervallo e lo riporta in meta. Derrick Jensen segna recuperando un punt bloccato in end zone. Il quarterback avversario Joe Theismann viene sackato sei volte. Durante la partita va in onda un celebre spot di un computer, intitolato 1984.",
+   "en": "Marcus Allen rushes for 191 yards and two touchdowns, including a record 74-yard run, and is named MVP. Jack Squirek intercepts a short pass seven seconds before halftime and returns it for a score. Derrick Jensen scores by recovering a blocked punt in the end zone. Opposing quarterback Joe Theismann is sacked six times. During the game a famous computer commercial titled 1984 is aired.",
+   "de": "Marcus Allen läuft für 191 Yards und zwei Touchdowns, darunter ein Rekordlauf über 74 Yards, und wird zum MVP gewählt. Jack Squirek fängt sieben Sekunden vor der Pause einen kurzen Pass ab und trägt ihn in die Endzone. Derrick Jensen punktet, indem er einen geblockten Punt in der Endzone erobert. Der gegnerische Quarterback Joe Theismann wird sechsmal gesackt. Während des Spiels läuft ein berühmter Computer-Werbespot mit dem Titel 1984."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XVIII"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-19",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1984,
+  "fase": "superbowl",
+  "data": "1985-01-20",
+  "citta": "Stanford",
+  "stadio": "Stanford Stadium",
+  "squadre": [
+   {
+    "nome": "San Francisco 49ers",
+    "punti": 38
+   },
+   {
+    "nome": "Miami Dolphins",
+    "punti": 16
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XIX",
+   "en": "Super Bowl XIX",
+   "de": "Super Bowl XIX"
+  },
+  "indizio": {
+   "it": "Joe Montana lancia per 331 yard, record di allora, ed è nominato MVP. Roger Craig è il primo giocatore a segnare tre touchdown in una finale. I vincitori accumulano 537 yard totali, record. Il quarterback avversario Dan Marino completa 29 passaggi su 50 per 318 yard.",
+   "en": "Joe Montana throws for 331 yards, a record at the time, and is named MVP. Roger Craig is the first player to score three touchdowns in a final. The winners pile up 537 total yards, a record. The opposing quarterback Dan Marino completes 29 of 50 passes for 318 yards.",
+   "de": "Joe Montana wirft für 331 Yards, ein damaliger Rekord, und wird zum MVP gewählt. Roger Craig ist der erste Spieler, der in einem Finale drei Touchdowns erzielt. Die Sieger sammeln 537 Yards insgesamt, ein Rekord. Der gegnerische Quarterback Dan Marino komplettiert 29 von 50 Pässen für 318 Yards."
+  },
+  "illustrazione": "porta",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XIX"
+  ],
+  "verificata": true
+ },
+ {
+  "id": "sb-20",
+  "sport": "football",
+  "livello": 1,
+  "stagione": 1985,
+  "fase": "superbowl",
+  "data": "1986-01-26",
+  "citta": "New Orleans",
+  "stadio": "Louisiana Superdome",
+  "squadre": [
+   {
+    "nome": "Chicago Bears",
+    "punti": 46
+   },
+   {
+    "nome": "New England Patriots",
+    "punti": 10
+   }
+  ],
+  "titolo": {
+   "it": "Super Bowl XX",
+   "en": "Super Bowl XX",
+   "de": "Super Bowl XX"
+  },
+  "indizio": {
+   "it": "Gli sfidanti vanno in vantaggio dopo 1 minuto e 19 secondi, poi subiscono 46 punti. Richard Dent, difensore, è nominato MVP. Il giocatore di linea William Perry, soprannominato Refrigerator, segna un touchdown da 1 yard, mentre Jim McMahon ne segna due di corsa e Reggie Phillips riporta un intercetto di 28 yard in meta. Gli sconfitti chiudono con soli 123 yard totali.",
+   "en": "The challengers take the lead after 1 minute 19 seconds, then give up 46 points. Defensive end Richard Dent is named MVP. Lineman William Perry, nicknamed the Refrigerator, scores a 1-yard touchdown, while Jim McMahon scores two on the ground and Reggie Phillips returns a 28-yard interception for a touchdown. The losers finish with only 123 total yards.",
+   "de": "Die Herausforderer gehen nach 1 Minute und 19 Sekunden in Führung, kassieren dann aber 46 Punkte. Defensive End Richard Dent wird zum MVP gewählt. Lineman William Perry, genannt Refrigerator, erzielt einen 1-Yard-Touchdown, während Jim McMahon zwei Läufe zum Touchdown abschließt und Reggie Phillips eine Interception über 28 Yards zurückträgt. Die Verlierer beenden das Spiel mit nur 123 Yards insgesamt."
+  },
+  "illustrazione": "stadio",
+  "fonti": [
+   "https://en.wikipedia.org/wiki/Super_Bowl_XX"
+  ],
+  "verificata": true
  }
 ]
